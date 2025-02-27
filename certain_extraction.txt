@@ -1,0 +1,1522 @@
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       15     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         2.1—Scope                                                                  
+          2.1.1 This chapter deÜnes notation and terminology used 
+         in this Code.                                                              
+                                                                                    
+         2.2—Notation                         R2.2—Notation                         
+         a  = depth of equivalent rectangular stress block, in.                     
+         a  = shear span, equal to distance from center of concen-                  
+          v                                                                         
+              trated load to either: (a) face of support for contin-                
+              uous or cantilevered members, or (b) center of                        
+              support for simply supported members, in.                             
+         A  = area of an individual bar or wire, in.2                               
+          b                                                                         
+         A  = area of the attachment base plate in contact with                     
+          bp                                                                        
+              concrete or grout when loaded in compression, in.2                    
+         A  = net bearing area of the head of stud, anchor bolt, or                 
+          brg                                                                       
+              headed deformed bar, in.2                                             
+         A  = area of concrete section resisting shear transfer, in.2               
+          c                                                                         
+         A  = greater gross cross-sectional area of the two orthog-                 
+          cf                                                                        
+              onal slab-beam strips intersecting at a column of a                   
+              two-way prestressed slab, in.2                                        
+         A  = cross-sectional area of a member mmeeaassuurreedd ttoo tthhee         
+          ch                                                                        
+              outside edges of transverse reiinnffoorrcceemment, in.2               
+         A  = area enclosed by outsidee ppeerriimeter of concrete                   
+          cp                                                                        
+              cross section, in.2                                                   
+         A  = cross-sectional area at oonnee end ooff aa ssttrruutt iinn aa strut-- 
+          cs                                                                        
+              and-tie model, taken ppeerpendiiccuullaarr ttoo tthhee aaxxis ooff    
+              the strut, in.2                                                       
+         A  = area of that part of crossss sectioonn  bbeettwweeeenn  tthhee Ýeexx--
+          ct                                                                        
+              ural tension face and cennttrroid off ggrroossss sseeccttiioonn, in.22
+         A  = gross area of concrete section boundded by web                        
+          cv                                                                        
+              thickness and length of section in the direction                      
+              of shear force considered in the case of walls,                       
+              and gross area of concrete section in the case ooff                   
+              diaphragms. Gross area is total area of the deÜned 
+              section minus area of any openings, in.2                              
+         A  = area of concrete section of an individual pier, hori-                 
+          cw                                                                        
+              zontal wall segment, or coupling beam resisting                       
+              shear, in.2                                                           
+         A  = eඒective bearing area of shear lug, in2.
+          ef,sl                                                                     
+         A  = area of reinforcement in bracket or corbel resisting                  
+          f                                                                         
+              design moment, in.2                                                   
+         A  = gross area of concrete section, in.2 For a hollow                     
+          g                                                                         
+              section, A is the area of the concrete only and does                  
+                   g                                                                
+              not include the area of the void(s)                                   
+         A  = total area of shear reinforcement parallel to primary                 
+          h                                                                         
+              tension reinforcement in a corbel or bracket, in.2                    
+         A  = total cross-sectional area of hooked or headed bars                   
+          hs                                                                        
+              being developed at a critical section, in.2                           
+         A  = eඒective cross-sectional area within a joint in a 
+          j                                                                         
+              plane parallel to plane of beam reinforcement                         
+              generating shear in the joint, in.2                                   
+         A  = total area of longitudinal reinforcement to resist                    
+          ƭ                                                                 
+              torsion, in.2                                                         
+         A  = minimum area of longitudinal reinforcement to                         
+          ƭ,min                                 
+              resist torsion, in.2                                                  
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                       CHAPTER   2—NOTATION   AND TERMINOLOGY                       
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      16            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+      A  = area of reinforcement in bracket or corbel resisting                     
+       n                                                                            
+           factored restraint force N , in.2                                        
+                         uc                                                         
+      A  = area of a face of a nodal zone or a section through a                    
+       nz                                                                           
+           nodal zone, in.2                                                         
+      A  = projected inÝuence area of a single adhesive anchor 
+       Na                                                                           
+           or group of adhesive anchors, for calculation of                         
+           bond strength in tension, in.2                                           
+      A  = projected  inÝuence  area  of  a  single  adhesive 
+       Nao                                                                          
+           anchor, for calculation of bond strength in tension                      
+           if not limited by edge distance or spacing, in.2                         
+      A  = projected concrete failure area of a single anchor                       
+       Nc                                                                           
+           or group of anchors, for calculation of strength in                      
+           tension, in.2                                                            
+      A  = projected concrete failure area of a single anchor,                      
+       Nco                                                                          
+           for calculation of strength in tension if not limited                    
+           by edge distance or spacing, in.2                                        
+      A  = gross area enclosed by torsional shear Ýow path, 
+       o                                                                            
+           in.2                                                                     
+      A  = area enclosed by centerline of the outermost cclloosseedd                
+       oh                                                                           
+           transverse torsional reinforcement, iinn..22                             
+      A  = total area occupied by duucctt,, sshheeathing, and                       
+       pd                                                                           
+           prestressing reinforcementt,, iinn..22                                   
+      A  = area of prestressed longgiittuuddinal tension reinforce-                 
+       ps                                                                           
+           ment, in.2                                                               
+      A  = total area of prestressinngg reinfoorrcceemmeenntt,, iinn..22            
+       pt                                                                           
+      A  = area of nonprestressedd longittuuddiinnaall tteennssiioonn reeiinn--     
+       s                                                                            
+           forcement, in.2                                                          
+      Aƪ = area of compression reinnffoorcemmeenntt,,  iinn..22
+       s                                                                            
+      A  = area of primary tension reinforcement iin a corbel or                    
+       sc                                                                           
+           bracket, in.2                                                            
+      A  = eඒective cross-sectional area of anchor in tension, 
+       se,N                                                                         
+           in.2                                                                     
+      A  = eඒective cross-sectional area of anchor in shear, 
+       se,V                                                                         
+           in.2                                                                     
+      A  = total cross-sectional area of transverse reinforce-                      
+       sh                                                                           
+           ment, including crossties, within spacing s and                          
+           perpendicular to dimension b, in.2                                       
+                           c                                                        
+      A  = total area of surface reinforcement at spacing s in                      
+       si                            i                                              
+           the i-th layer crossing a strut, with reinforcement at                   
+           an angle ŋ to the axis of the strut, in.2
+                i                                                                   
+      A  = minimum area of Ýexural reinforcement, in.2
+       s,min                                     
+      A  = total area of nonprestressed longitudinal reinforce-                     
+       st                                                                           
+           ment including bars or steel shapes, and excluding                       
+           prestressing reinforcement, in.2                                         
+      A  = area of one leg of a closed stirrup, hoop, or tie                        
+       t                                                                            
+           resisting torsion within spacing s, in.2                                 
+      A  = total cross-sectional area of ties or stirrups conÜning 
+       th                                                                           
+           hooked bars, in.2                                                        
+      A  = area of prestressing reinforcement in a tie, in.2                        
+       tp                                                                           
+      A  = total cross-sectional area of all transverse reinforce-                  
+       tr                                                                           
+           ment within spacing s that crosses the potential                         
+           plane of splitting through the reinforcement being                       
+           developed, in.2                                                          
+      A  = area of nonprestressed reinforcement in a tie, in.2                      
+       ts                                                                           
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       17     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         A  = total cross-sectional area of ties or stirrups acting as tt           
+              parallel tie reinforcement for headed bars, in.2                      
+         A  = area of shear reinforcement within spacing s, in.2                    
+          v                                                                         
+         A  = total area of reinforcement in each group of diag- vd                 
+              onal bars in a diagonally reinforced coupling beam,                   
+              in.2                                                                  
+         A  = area of shear-friction reinforcement, in.2                            
+          vf                                                                        
+         A  = area  of  shear  reinforcement  parallel  to  Ýexural 
+          vh                                                                        
+              tension reinforcement within spacing s , in.2                         
+                                   2                                                
+         A  = minimum area of shear reinforcement within                            
+          v,min                                  
+              spacing s, in.2                                                       
+         A  = projected concrete failure area of a single anchor                    
+          Vc                                                                        
+              or group of anchors, for calculation of strength in                   
+              shear, in.2                                                           
+         A  = projected concrete failure area of a single anchor,                   
+          Vco                                                                       
+              for calculation of strength in shear, if not limited by               
+              corner inÝuences, spacing, or member thickness, 
+              in.2                                                                  
+         A  = loaded area for consideration of bearing, struutt,, aanndd            
+          1                                                                         
+              node strength, in.2                                                   
+         A  = area of the lower base of the llaarrggeesstt frustum of a             
+          2                                                                         
+              pyramid, cone, or tapered wweeddgge contained wholly                  
+              within the support and hhaavviinng its upper base equal               
+              to the loaded area. Thee ssiiddes of tthhee ppyyrraammiidd,, conee,,  
+              or tapered wedge shall bbee slopeedd oonnee vveerrttiiccaall ttoo twwoo
+              horizontal, in.2                                                      
+         b  = width of compression ffaacce of mmeemmbbeerr,, iinn..                 
+         b  = cross-sectional dimenssiioon ooff mmeemmbbeerr corree                 
+          c                                                                         
+              measured to the outside edges of thhe transverse                      
+              reinforcement composing area A , in.                                  
+                                sh                                                  
+         b  = eඒective Ýange width, in.
+          f                                                                         
+         b  = perimeter of critical section for two-way shear iinn                  
+          o                                                                         
+              slabs and footings, in.                                               
+         b  = width of strut, in.                                                   
+          s                                                                         
+         b  = width of shear lug, in.                                               
+          sl                                                                        
+         b  = eඒective slab width, in.
+          slab                                                                      
+         b  = width of that part of cross section containing the                    
+          t                                                                         
+              closed stirrups resisting torsion, in.                                
+         b  = width of cross section at contact surface being                       
+          v                                                                         
+              investigated for horizontal shear, in.                                
+         b  = web width or diameter of circular section, in.                        
+          w                                                                         
+         b  = dimension of the critical section b measured in the                   
+          1                      o                                                  
+              direction of the span for which moments are deter-                    
+              mined, in.                                                            
+         b  = dimension of the critical section b measured in the                   
+          2                      o                                                  
+              direction perpendicular to b , in.                                    
+                             1                                                      
+         B  = nominal bearing strength, lb                                          
+          n                                                                         
+         B  = factored bearing load, lb                                             
+          u                                                                         
+         c  = distance from extreme compression Über to neutral 
+              axis, in.                                                             
+         c  = critical edge distance required to develop the basic                  
+          ac                                                                        
+              strength as controlled by concrete breakout or bond                   
+              of a post-installed anchor in tension in uncracked                    
+              concrete without supplementary reinforcement to                       
+              control splitting, in.                                                
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      18            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+      c  = maximum distance from center of an anchor shaft                          
+      a,max                                      
+           to the edge of concrete, in.                                             
+      c  = minimum distance from center of an anchor shaft to                       
+      a,min                                      
+           the edge of concrete, in.                                                
+      c  = distance from the center of an anchor shaft to the                       
+      a1                                                                            
+           edge of concrete in one direction, in. If shear is                       
+           applied to anchor, c is taken in the direction of the                    
+                     a1                                                             
+           applied shear. If tension is applied to the anchor,                      
+           c is the minimum edge distance. Where anchors                            
+           a1                                                                       
+           subject to shear are located in narrow sections of                       
+           limited thickness, see R17.7.2.1.2                                       
+                                          cƪ = limiting value of c where anchors are located less
+                                           a1            a1                         
+                                               than 1.5c from three or more edges, in.; see Fig.
+                                                    a1                              
+                                               R17.7.2.1.2                          
+      c  = distance from center of an anchor shaft to the edge                      
+      a2                                                                            
+           of concrete in the direction perpendicular to c , in.                    
+                                    a1                                              
+      c  = lesser of: (a) the distance from center of a bar or                      
+      b                                                                             
+           wire to nearest concrete surface, and (b) one-half                       
+           the center-to-center spacing of bars or wiress bbeeiinngg                
+           developed, in.                                                           
+      c  = clear cover of reinforcement, iinn..                                     
+      c                                                                             
+      c  = projected distance from ceenntteerr of an anchor shaft                   
+      Na                                                                            
+           on one side of the anchhoorr rrequired to develop the                    
+           full bond strength of a ssiinngle adhheessiivvee aanncchhoorr, in.       
+      c  = distance from the centteerrline off tthhee rrooww ooff aannchoorrss      
+      sl                                                                            
+           in tension nearest the sshhear lugg ttoo tthhee cceenntteerrlliinee ooff 
+           the shear lug measuredd iinn the ddiirreeccttiioonn ooff sshheeaar, iinn..
+      c  = distance from the interioorr face ooff tthhee ccoolluummnn tto thhee     
+      t                                                                             
+           slab edge measured parallell to c , but not exceeding                    
+                            1                                                       
+           c , in.                                                                  
+           1                                                                        
+      c  = dimension of rectangular or equivalent rectangular                       
+      1                                                                             
+           column, capital, or bracket measured in the direcc-                      
+           tion of the span for which moments are being deter-                      
+           mined, in.                                                               
+      c  = dimension of rectangular or equivalent rectangular                       
+      2                                                                             
+           column, capital, or bracket measured in the direc-                       
+           tion perpendicular to c , in.                                            
+                       1                                                            
+                                          C   = compressive force acting on a nodal zone, lb
+      C  = factor relating actual moment diagram to an equiv-                       
+       m                                                                     
+           alent uniform moment diagram                                             
+      d  = distance from extreme compression Über to centroid 
+           of longitudinal tension reinforcement, in.                               
+      dƪ = distance from extreme compression Über to centroid 
+           of longitudinal compression reinforcement, in.                           
+      d  = outside diameter of anchor or shaft diameter of                          
+      a                                                                             
+           headed stud, headed bolt, or hooked bolt, in.                            
+      d ƪ = value substituted for d if an oversized anchor is
+      a                 a                                                           
+           used, in.                                                                
+      d  = nominal maximum size of coarse aggregate, in.                            
+      agg                                                                           
+      d  = nominal diameter of bar, wire, or prestressing                           
+      b                                                                             
+           strand, in.                                                              
+                                          d   = distance from the anchorage device to the centroid
+                                           burst                                    
+                                               of the bursting force, T , in.       
+                                                            burst                   
+      d  = distance from extreme compression Über to centroid 
+      p                                                                             
+           of prestressed reinforcement, in.                                        
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       19     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         d  = diameter of pile at footing base, in. pile                            
+         D  = eඒect of service dead load
+         D  = eඒect of superimposed dead load
+          s                                                                         
+         D  = eඒect of self-weight dead load of the concrete  w
+              structural system                                                     
+                                              e  = eccentricity of the anchorage device or group of
+                                              anc                                   
+                                                  devices with respect to the centroid of the cross
+                                                  section, in.                      
+         e  = distance from the inner surface of the shaft of a J-                  
+          h                                                                         
+              or L-bolt to the outer tip of the J- or L-bolt, in.                   
+         eƪ = distance between resultant tension load on a group            
+          N                                                                         
+              of anchors loaded in tension and the centroid of the                  
+              group of anchors loaded in tension, in.; eƪ is always         
+                                    N                                               
+              positive                                                              
+         eƪ = distance between resultant shear load on a group of           
+          V                                                                         
+              anchors loaded in shear in the same direction, and                    
+              the centroid of the group of anchors loaded in shear                  
+              in the same direction, in.; eƪ is always positive             
+                             V                                                      
+         E  = eඒect of horizontal and vertical earthquake-inndduucceedd  
+              forces                                                                
+         E  = modulus of elasticity of concrreettee,, ppssii                        
+          c                                                                         
+         E  = modulus of elasticity of beeaamm ccooncrete, psi                      
+          cb                                                                        
+         E  = modulus of elasticity of ssllaabb concrete, psi                       
+          cs                                                                        
+         EI = Ýexural stiඒness of memmbber, in.2--llbb
+         (EI) = eඒective Ýexural stiඒnneesss of mmeemmbbeerr,,  iinn..22--llbb
+           eਙ                                                       
+         E  = modulus of elasticity off prestreessssiinngg rreeiinnffoorrcceemmeenntt,,
+          p                                                                         
+              psi                                                                   
+         E  = modulus of elasticity off rreinfoorrcceemmeenntt aanndd sstrucc--     
+          s                                                                         
+              tural steel, excluding prestressing reiinforcement,                   
+              psi                                                                   
+         fƪ = speciÜed compressive strength of concrete, psi
+         c                                                                          
+          f′ = square root of speciÜed compressive strength ooff 
+           c                                                                        
+              concrete, psi                                                         
+         f ƪ = speciÜed compressive strength of concrete at time 
+         ci                                                                         
+              of initial prestress, psi                                             
+          f′ = square root of speciÜed compressive strength of 
+           ci                                                                       
+              concrete at time of initial prestress, psi                            
+         f  = eඒective compressive strength of the concrete in a 
+         ce                                                                         
+              strut or a nodal zone, psi                                            
+         f  = stress due to unfactored dead load, at extreme Über 
+         d                                                                          
+              of section where tensile stress is caused by exter-                   
+              nally applied loads, psi                                              
+         f  = decompression stress; stress in the prestressed rein-                 
+         dc                                                                         
+              forcement if stress is zero in the concrete at the                    
+              same level as the centroid of the prestressed rein-                   
+              forcement, psi                                                        
+         f  = compressive stress in concrete, after allowance                       
+         pc                                                                         
+              for all prestress losses, at centroid of cross section                
+              resisting externally applied loads or at junction of                  
+              web and Ýange where the centroid lies within the 
+              Ýange, psi. In a composite member, f is the resul-
+                                   pc                                               
+              tant compressive stress at centroid of composite                      
+              section, or at junction of web and Ýange where the 
+              centroid lies within the Ýange, due to both prestress 
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      20            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+           and moments resisted by precast member acting                            
+           alone                                                                    
+      f  = compressive stress in concrete due only to eඒective 
+      pe                                                                            
+           prestress forces, after allowance for all prestress                      
+           losses, at extreme Über of section if tensile stress is 
+           caused by externally applied loads, psi                                  
+      f  = stress in prestressed reinforcement at nominal Ýex-
+      ps                                                                            
+           ural strength, psi                                                       
+      f  = speciÜed tensile strength of prestressing reinforce-
+      pu                                                                            
+           ment, psi                                                                
+      f  = speciÜed yield strength of prestressing reinforce-
+      py                                                                            
+           ment, psi                                                                
+      f  = modulus of rupture of concrete, psi                                      
+      r                                                                             
+      f  = tensile stress in reinforcement at service loads,                        
+      s                                                                             
+           excluding prestressed reinforcement, psi                                 
+      fƪ = compressive stress in reinforcement under factored 
+      s                                                                             
+           loads, excluding prestressed reinforcement, psi                          
+      f  = eඒective stress in prestressed reinforcement, after 
+      se                                                                            
+           allowance for all prestress losses, psi                                  
+                                          ffff == ssttrreessss in the i-th layer of surface reinforcement, psi
+                                           ssii                                     
+      f  = extreme Über stress in the prreeccoommpprreessed tension 
+      t                                                                             
+           zone calculated at service llooaaddss using gross section                
+           properties after allowannccee oof all prestress losses,                  
+           psi                                                                      
+      f  = speciÜed tensile strenggtthh of ancchhoorr  sstteeeell,,  ppssii
+      uta                                                                           
+      f  = speciÜed yield strenggtthh for nnoonnpprreessttrreesssseedd  reeiinn--
+      y                                                                             
+           forcement, psi                                                           
+      f  = speciÜed yield strength ooff  anchoorr  sstteeeell,,  ppssii
+      ya                                                                            
+      f  = speciÜed  yield  strength  of  transverse  reinforce-
+      yt                                                                            
+           ment, psi                                                                
+      F  = eඒect of service load due to Ýuids with well-deÜned 
+           pressures and maximum heights                                            
+      F  = nominal strength at face of a nodal zone, lb                             
+       nn                                                                           
+      F  = nominal strength of a strut, lb                                          
+       ns                                                                           
+      F  = nominal strength of a tie, lb                                            
+       nt                                                                           
+      F  = factored force on the face of a node, lb                                 
+       un                                                                           
+      F  = factored compressive force in a strut, lb                                
+       us                                                                           
+      F  = factored tensile force in a tie, lb                                      
+       ut                                                                           
+      h  = overall thickness, height, or depth of member, in.                       
+      h  = thickness of member in which an anchor is located,                       
+      a                                                                             
+           measured parallel to anchor axis, in.                                    
+                                          h   = dimension of anchorage device or single group of
+                                           anc                                      
+                                               closely spaced devices in the direction of bursting
+                                               being considered, in.                
+      h  = eඒective embedment depth of anchor, in.
+      ef                                                                            
+                                          hƪ = limiting value of h where anchors are located less
+                                           ef            ef                         
+                                               than 1.5h from three or more edges, in.; refer to
+                                                    ef                              
+                                               Fig. R17.6.2.1.2                     
+      h  = eඒective embedment depth of shear lug, in.
+      ef,sl                                                                         
+      h  = embedment depth of shear lug, in.                                        
+      sl                                                                            
+      h  = story height for story x, in.                                     
+      sx                                                              
+      h  = laterally unsupported height at extreme compres-                         
+      u                                                                             
+           sion Über of wall or wall pier, in., equivalent to ƭ
+                                      u                                             
+           for compression members                                                  
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       21     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         h  = height of entire wall from base to top, or clear w                    
+              height of wall segment or wall pier considered, in.                   
+         h  = height of entire structural wall above the critical                   
+          wcs                                                                       
+              section for Ýexural and axial loads, in.
+         h  = maximum center-to-center spacing of longitudinal 
+          x                                                                         
+              bars laterally supported by corners of crossties or                   
+              hoop legs around the perimeter of a column or wall                    
+              boundary element, in.                                                 
+         H  = eඒect of service load due to lateral earth pressure, 
+              ground water pressure, or pressure of bulk mate-               
+              rials, lb                                                             
+         I  = moment of inertia of section about centroidal axis, 
+              in.4                                                                  
+         I  = moment of inertia of gross section of beam about                      
+          b                                                                         
+              centroidal axis, in.4
+         I  = moment of inertia of cracked section transformed                      
+          cr                                                                        
+              to concrete, in.4                                                     
+         I  = eඒective  moment  of  inertia  for  calculation  of 
+          e                                                                         
+              deÝection, in.4
+         I  = moment of inertia of gross concrettee sseeccttiioonn aabboouutt       
+          g                                                                         
+              centroidal axis, neglecting reinnffoorrcceemmeent, in.4
+         I  = moment of inertia of grossss sseecction of slab about                 
+          s                                                                         
+              centroidal axis, in.4
+         I  = moment of inertia of reiinnffoorcemeenntt aabboouutt cceennttrroidaall
+          se                                                                        
+              axis of member cross sseecction, iinn..44
+         k  = eඒective length factor ffoor commpprreessssiioonn  mmeemmbberss
+         k  = coeඓcient for basic coonncrete bbrreeaakkoouutt  ssttrreennggthh  iinn 
+          c                                                                         
+              tension                                                               
+         k  = coeඓcient for pryout strength
+          cp                                                                        
+         k  = concrete strength factor                                              
+          f                                                                         
+         k  = conÜnement eඒectiveness factor
+          n                                                                         
+                                              KK = torsional stiඒness of member; moment per unit 
+                                              t                                     
+                                                  rotation                          
+         K  = transverse reinforcement index, in.
+          tr                                                                        
+                                              K  = coeඓcient associated with the 5 percent fractile
+                                              05                                    
+         ƭ = span length of beam or one-way slab; clear projec-
+              tion of cantilever, in.                                               
+                                              ƭ = length along which anchorage of a tie must occur,
+                                              anc                                   
+                                                  in.                               
+                                              ƭ = width of bearing, in.     
+                                              b                                     
+         ƭ = additional embedment length beyond centerline of               
+          a                                                                         
+              support or point of inÝection, in.
+         ƭ = length of boundary element from compression face               
+          be                                                                        
+              of member, in.                                                        
+         ƭ = length of compression member, measured center-
+          c                                                                         
+              to-center of the joints, in.
+         ƭ = arc length of bar bend along centerline of bar, in.            
+          cb                                                                        
+         ƭ = development length in tension of deformed bar,                 
+          d                                                                         
+              deformed wire, plain and deformed welded wire                         
+              reinforcement, or pretensioned strand, in.                            
+         ƭ = development length in compression of deformed                  
+          dc                                                                        
+              bars and deformed wire, in.                                           
+         ƭ = debonded length of prestressed reinforcement at                
+          db                                                                        
+              end of member, in.                                                    
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      22            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+      ƭ = development length in tension of deformed bar or                  
+      dh                                                                            
+           deformed wire with a standard hook, measured                             
+           from outside end of hook, point of tangency, toward                      
+           critical section, in.                                                    
+      ƭ = development length in tension of headed deformed                  
+      dt                                                                            
+           bar, measured from the bearing face of the head                          
+           toward the critical section, in.                                         
+      ƭ = load bearing length of anchor for shear, in.                      
+      e                                                                             
+      ƭ = straight extension at the end of a standard hook, in.             
+      ext                                                      
+      ƭ = length of clear span measured face-to-face of                     
+      n                                                                             
+           supports, in.                                                            
+      ƭ = length, measured from joint face along axis of                    
+      o                                                                             
+           member, over which special transverse reinforce-                         
+           ment must be provided, in.                                               
+      ƭ = compression lap splice length, in.                                
+      sc                                                                            
+      ƭ = tension lap splice length, in.                                    
+      st                                                                            
+      ƭ = span of member under load test, taken as the shorter              
+      t                                                                             
+           span for two-way slab systems, in. Span is the                           
+           lesser of: (a) distance between centers of suppppoorrttss,,              
+           and (b) clear distance between supppoorrttss pplluuss tthhiicckk--       
+           ness h of member. Span for aa ccaannttiilleever shall be                 
+           taken as twice the distancee ffrroomm face of support to                 
+           cantilever end                                                           
+      ƭ = transfer length of prestrreesssed reiinnffoorrcceemmeenntt,, iinn.
+      tr                                                                            
+      ƭ = unsupported length of ccoolumn oorr wwaallll,, iinn..             
+      u                                                                             
+      ƭ = length of entire wall, oorr lengthh ooff wwaallll sseeggmmeentt oorr
+      w                                                                             
+           wall pier considered in ddirectioonn ooff sshheeaarr ffoorrcce, iinn..   
+      ƭ = length of span in directioonn that mmoommeennttss aarree bbeinngg 
+      1                                                                             
+           determined, measured centter-to-center of supports,                      
+           in.                                                                      
+      ƭ = length of span in direction perpendicular to ƭ ,          
+      2                               1                                             
+           measured center-to-center of supports, in.                               
+      L  = eඒect of service live load
+      L  = eඒect of service roof live load
+       r                                                                            
+                                          M   = moment acting on anchor or anchor group, in.-lb
+      M  = maximum moment in member due to service loads                            
+       a                                                                            
+           at stage deÝection is calculated, in.-lb
+      M  = factored  moment  ampliÜed  for  the  eඒects  of 
+       c                                                                            
+           member curvature used for design of compression                          
+           member, in.-lb                                                           
+      M  = cracking moment, in.-lb                                                  
+       cr                                                                           
+      M  = moment causing Ýexural cracking at section due to 
+       cre                                                                          
+           externally applied loads, in.-lb                                         
+      M  = maximum factored moment at section due to exter-                         
+       max                                                     
+           nally applied loads, in.-lb                                              
+      M  = nominal Ýexural strength at section, in.-lb
+       n                                                                            
+      M  = nominal Ýexural strength of beam including slab 
+       nb                                                                           
+           where in tension, framing into joint, in.-lb                             
+      M  = nominal Ýexural strength of column framing into 
+       nc                                                                           
+           joint, calculated for factored axial force, consis-                      
+           tent with the direction of lateral forces considered,                    
+           resulting in lowest Ýexural strength, in.-lb
+      M  = probable Ýexural strength of members, with or 
+       pr                                                                           
+           without axial load, determined using the proper-                         
+           ties of the member at joint faces assuming a tensile                     
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       23     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+              stress in the longitudinal bars of at least 1.25f and y               
+              a strength reduction factor ࣂ of 1.0, in.-lb
+         M  = maximum moment in wall due to service loads,                          
+          sa                                                                        
+              excluding PÅ eඒects, in.-lb
+         M  = factored slab moment that is resisted by the column                   
+          sc                                                                        
+              at a joint, in.-lb                                                    
+         M  = factored moment at section, in.-lb                                    
+          u                                                                         
+         M  = moment at midheight of wall due to factored lateral                   
+          ua                                                                        
+              and eccentric vertical loads, not including PÅ          
+              eඒects, in.-lb
+         M  = lesser factored end moment on a compression                           
+          1                                                                         
+              member, in.-lb                                                        
+         M  = factored end moment on a compression member at                        
+          1ns                                                                       
+              the end at which M acts, due to loads that cause no                   
+                         1                                                          
+              appreciable sidesway, calculated using a Ürst-order 
+              elastic frame analysis, in.-lb                                        
+         M  = factored end moment on compression member at                          
+          1s                                                                        
+              the end at which M acts, due to loads that cause                      
+                         1                                                          
+              appreciable sidesway, calculated using a Ürstt-oorrddeerr  
+              elastic frame analysis, in.-lb                                        
+         M  = greater factored end momenntt oonn aa compression                     
+          2                                                                         
+              member. If transverse looaaddiinngg occurs between                    
+              supports, M is taken as tthhee largest moment occur-                  
+                     2                                                              
+              ring in member. Valuee oof M iiss aallwwaayyss ppoossitivee,,         
+                               2                                                    
+              in.-lb                                                                
+         M  = minimum value of M ,, iin.-lb                                         
+          2,min 2                                              
+         M  = factored end moment oonn commpprreessssiioonn mmeemmbberr aatt        
+          2ns                                                                       
+              the end at which M acts,, ddue too llooaaddss tthhaatt ccaauuse nnoo  
+                         2                                                          
+              appreciable sidesway, calculated using a Ürst-order 
+              elastic frame analysis, in.-lb                                        
+         M  = factored end moment on compression member at                          
+          2s                                                                        
+              the end at which M acts, due to loads that caussee                    
+                         2                                                          
+              appreciable sidesway, calculated using a Ürst-order 
+              elastic frame analysis, in.-lb                                        
+         n  = number of items, such as, bars, wires, monostrand                     
+              anchorage devices, or anchors                                         
+         n  = number of longitudinal bars around the perimeter of                   
+          ƭ                                                                 
+              a column core with rectilinear hoops that are later-                  
+              ally supported by the corner of hoops or by seismic                   
+              hooks. A bundle of bars is counted as a single bar                    
+         n  = number of stories above the critical section                          
+          s                                                                         
+                                              n  = number of threads per inch       
+                                              t                                     
+                                              N  = tension force acting on anchor or anchor group, lb
+         N  = nominal bond strength in tension of a single adhe-                    
+          a                                                                         
+              sive anchor, lb                                                       
+         N  = nominal bond strength in tension of a group of                        
+          ag                                                                        
+              adhesive anchors, lb                                                  
+         N  = basic concrete breakout strength in tension of a                      
+          b                                                                         
+              single anchor in cracked concrete, lb                                 
+         N  = basic bond strength in tension of a single adhesive                   
+          ba                                                                        
+              anchor, lb                                                            
+         N  = resultant tensile force acting on the portion of the                  
+          c                                                                         
+              concrete cross section that is subjected to tensile                   
+              stresses due to the combined eඒects of service 
+              loads and eඒective prestress, lb
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      24            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+      N  = nominal concrete breakout strength in tension of a                       
+       cb                                                                           
+           single anchor, lb                                                        
+      N  = nominal concrete breakout strength in tension of a                       
+       cbg                                                                          
+           group of anchors, lb                                                     
+      N  = basic concrete pryout strength of a single anchor, lb                    
+       cp                                                                           
+      N  = basic concrete pryout strength of a group of                             
+       cpg                                                                          
+           anchors, lb                                                              
+      N  = nominal strength in tension, lb                                          
+       n                                                                            
+      N  = pullout strength in tension of a single anchor in                        
+       p                                                                            
+           cracked concrete, lb                                                     
+      N  = nominal pullout strength in tension of a single                          
+       pn                                                                           
+           anchor, lb                                                               
+      N  = nominal strength of a single anchor or individual                        
+       sa                                                                           
+           anchor in a group of anchors in tension as governed                      
+           by the steel strength, lb                                                
+      N  = side-face blowout strength of a single anchor, lb                        
+       sb                                                                           
+      N  = side-face blowout strength of a group of anchors, lb                     
+       sbg                                                                          
+      N  = factored axial force normal to cross section occur-                      
+       u                                                                            
+           ring simultaneously with V or T; to be takkeenn aass                     
+                          u  u                                                      
+           positive for compression and negattiivvee ffoorr tteennssiioonn,,        
+           lb                                                                       
+      N  = factored tensile force appplliieedd to anchor or indi-                   
+       ua                                                                           
+           vidual anchor in a groupp ooff aanchors, lb                              
+      N  = total factored tensile forrccee applieedd ttoo aanncchhoorr ggroupp,,    
+       ua,g                                                                         
+           lb                                                                       
+      N  = factored tensile forcee applieedd ttoo mmoosstt hhigghhllyy              
+       ua,i                                                                         
+           stressed anchor in a groouup of aanncchhoorrss,, llbb                    
+      N  = factored sustained tensioonn load, llbb                                  
+       ua,s                                                                         
+      N  = factored restraint force appllied to a bbearing connec-                  
+       uc                                                                           
+           tion acting perpendicular to and simultaneously                          
+           with V, to be taken as positive for tension, lb                          
+              u                                                                     
+      N  = maximum restraint force that can be transmitteedd                        
+       uc,max                             
+           through the load path of a bearing connection                            
+           multiplied by the load factor used for live loads in                     
+           combinations with other factored load eඒects
+      p  = outside perimeter of concrete cross section, in.                         
+      cp                                                                            
+      p  = perimeter of centerline of outermost closed trans-                       
+      h                                                                             
+           verse torsional reinforcement, in.                                       
+      P  = maximum allowable compressive strength of a                              
+       a                                                                            
+           deep foundation member, lb                                               
+      P  = critical buckling load, lb                                               
+       c                                                                            
+      P  = nominal axial compressive strength of member, lb                         
+       n                                                                            
+      P  = maximum nominal axial compressive strength of a                          
+       n,max                                     
+           member, lb                                                               
+      P  = nominal axial tensile strength of member, lb                             
+       nt                                                                           
+      P  = maximum nominal axial tensile strength of member,                        
+       nt,max                             
+           lb                                                                       
+      P  = nominal axial strength at zero eccentricity, lb                          
+       o                                                                            
+      P  = factored prestressing force at anchorage device, lb                      
+       pu                                                                           
+      P  = unfactored axial load at the design, midheight                           
+       s                                                                            
+           section including eඒects of self-weight, lb
+      P  = factored axial force; to be taken as positive for                        
+       u                                                                            
+           compression and negative for tension, lb                                 
+                                          PŌ = secondary moment due to individual member slen-
+                                               derness, in.-lb                      
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       25     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         PÅ = secondary moment due to lateral deÝection, in.-lb
+         q  = factored load per unit area, lb/ft2
+          u                                                                         
+         Q  = stability index for a story                                           
+         r  = radius of gyration of cross section, in.                              
+         r  = bend radius at the inside of a bar, in.                               
+          b                                                                         
+         R  = cumulative load eඒect of service rain load R = reaction, lb
+         s  = center-to-center spacing of items, such as longi-                     
+              tudinal reinforcement, transverse reinforcement,                      
+              tendons, or anchors, in.                                              
+         s  = center-to-center spacing of reinforcement in the i-th                 
+          i                                                                         
+              direction adjacent to the surface of the member, in.                  
+         s  = center-to-center spacing of transverse reinforce-                     
+          o                                                                         
+              ment within the length ƭ , in.                                
+                           o                                                        
+         s  = sample standard deviation, psi                                        
+          s                                                                         
+         s  = clear distance between adjacent webs, in.                             
+          w                                                                         
+         s  = center-to-center spacing of longitudinal shear or                     
+          2                                                                         
+              torsional reinforcement, in.                                          
+         S  = eඒect of service snow load
+         S  = 5 percent damped, spectral response acceleerraattiioonn               
+          DS                                                                        
+              parameter at short periods determmiinneedd iinn aaccccoorr--          
+              dance with the general buildinngg ccooddee                            
+         S  = moment, shear, or axial foorrccee aat connection corre-               
+          e                                                                         
+              sponding to developmenntt oof probable strength at                    
+              intended yield locationnss,, basedd oonn tthhee ggoovveerninngg       
+              mechanism of inelasticc llaateral ddeeffoorrmmaattiioonn,, ccoonssiidd--
+              ering both gravity and eearthquuaakkee  eඒects
+         S  = elastic section moduluss,, in.3                                       
+          m                                                                  
+         S  = nominal moment, shear,, aaxial, ttoorrssiioonn,, oorr bbeearinngg     
+          n                                                                         
+              strength                                                              
+         S  = yield strength of connection, based on f of the                       
+          y                           y                                             
+              connected part, for moment, shear, torsion, or axial                  
+              force, psi                                                            
+         t  = wall thickness of hollow section, in.                                 
+         t  = thickness of Ýange, in.
+         f                                                                          
+         t    thickness of shear lug, in.                                           
+         sl  =                                                                      
+         T  = cumulative eඒects of service temperature, creep,  T = tension force acting on a nodal zone in a strut-and-
+              shrinkage, diඒerential settlement, and shrinkage- tie model, lb (T is also used to deÜne the cumula-
+              compensating concrete               tive eඒects of service temperature, creep, shrinkage, 
+                                                  diඒerential settlement, and shrinkage-compensating 
+                                                  concrete in the load combinations deÜned in 5.3.6.)
+                                              T  = tensile force in general zone acting ahead of the
+                                              burst                                 
+                                                  anchorage device caused by spreading of the
+                                                  anchorage force, lb               
+         T  = cracking torsional moment, in.-lb                                     
+          cr                                                                        
+         T  = total test load, lb                                                   
+          t                                                                         
+         T  = threshold torsional moment, in.-lb                                    
+          th                                                                        
+         T  = nominal torsional moment strength, in.-lb                             
+          n                                                                         
+         T  = factored torsional moment at section, in.-lb                          
+          u                                                                         
+         U  = strength of a member or cross section required to                     
+              resist factored loads or related internal moments                     
+              and forces in such combinations as stipulated in                      
+              this Code                                                             
+         v  = stress corresponding to nominal two-way shear                         
+          c                                                                         
+              strength provided by concrete, psi                                    
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      26            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+      v  = equivalent concrete stress corresponding to nominal                      
+      n                                                                             
+           two-way shear strength of slab or footing, psi                           
+      v  = equivalent concrete stress corresponding to nominal                      
+      s                                                                             
+           two-way shear strength provided by reinforcement,                        
+           psi                                                                      
+      v  = maximum factored two-way shear stress calculated                         
+      u                                                                             
+           around the perimeter of a given critical section, psi                    
+      v  = factored shear stress on the slab critical section for                   
+      uv                                                                            
+           two-way action, from the controlling load combi-                         
+           nation, without moment transfer, psi                                     
+                                          V   = shear force acting on anchor or anchor group, lb
+                                          V   = maximum shear force that can be applied parallel to
+                                           ||                                       
+                                               the edge, lb                         
+                                          V   = maximum shear force that can be applied perpen-
+                                           Ŭ                                
+                                               dicular to the edge, lb              
+      V  = basic concrete breakout strength in shear of a single                    
+       b                                                                            
+           anchor in cracked concrete, lb                                           
+      V  = nominal bearing strength of a shear lug in direction                     
+       brg,sl                                                                       
+           of shear, lb                                                             
+      V  = nominal shear strength provided byy ccoonnccrreettee,, llbb              
+       c                                                                            
+      V  = nominal concrete breakout sttrreennggtthh iinn shear of a                
+       cb                                                                           
+           single anchor, lb                                                        
+      V  = nominal concrete breakkoouutt strength in shear of a                     
+       cbg                                                                          
+           group of anchors, lb                                                     
+      V  = nominal concrete breeaakkout ssttrreennggtthh iinn sshheear ooff         
+       cb,sl                                                                        
+           attachment with shear lluugs, lb                                         
+      V  = nominal shear strength pprrovideedd bbyy ccoonnccrreettee wwhheerree     
+       ci                                                                           
+           diagonal cracking resultss ffrom ccoommbbiinneedd sshheeaar anndd        
+           moment, lb                                                               
+      V  = nominal concrete pryout strength of a single anchor,                     
+       cp                                                                           
+           lb                                                                       
+      V  = nominal concrete pryout strength of a group ooff                         
+       cpg                                                                          
+           anchors, lb                                                              
+      V  = nominal shear strength provided by concrete where                        
+       cw                                                                           
+           diagonal cracking results from high principal                            
+           tensile stress in web, lb                                                
+      V  = shear force at section due to unfactored dead load,                      
+       d                                                                            
+           lb                                                                       
+      V  = design shear force for load combinations including                       
+      e                                                                             
+           earthquake eඒects, lb
+      V  = factored shear force at section due to externally                        
+       i                                                                            
+           applied loads occurring simultaneously with M ,                          
+                                     max                       
+           lb                                                                       
+      V  = nominal shear strength, lb                                               
+       n                                                                            
+      V  = nominal horizontal shear strength, lb                                    
+       nh                                                                           
+      V  = vertical component of eඒective prestress force at 
+       p                                                                            
+           section, lb                                                              
+      V  = nominal shear strength provided by shear reinforce-                      
+       s                                                                            
+           ment, lb                                                                 
+      V  = nominal shear strength of a single anchor or indi-                       
+       sa                                                                           
+           vidual anchor in a group of anchors as governed by                       
+           the steel strength, lb                                                   
+      V  = factored shear force at section, lb                                      
+       u                                                                            
+      V  = factored shear force applied to a single anchor or                       
+       ua                                                                           
+           group of anchors, lb                                                     
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       27     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         V  = total factored shear force applied to anchor group, ua,g              
+              lb                                                                    
+         V  = factored shear force applied to most highly stressed                  
+          ua,i                                                                      
+              anchor in a group of anchors, lb                                      
+         V  = factored shear force along contact surface in                         
+          uh                                                                        
+              composite concrete Ýexural member, lb
+         V  = factored horizontal shear in a story, lb                              
+          us                                                                        
+         V  = factored shear force at section in the x-direction, lb                
+          u,x                                                  
+         V  = factored shear force at section in the y-direction, lb                
+          u,y                                                                       
+         V  = shear strength in the x-direction                                     
+          n,x                                                  
+         V  = shear strength in the y-direction                                     
+          n,y                                                                       
+         w  = density, unit weight, of normalweight concrete or                     
+          c                                                                         
+              equilibrium density of lightweight concrete, lb/ft3
+                                              w  = width of a strut perpendicular to the axis of the
+                                              s                                     
+                                                  strut, in.                        
+         w  = eඒective tie width in a strut-and-tie model, in. w = eඒective height of concrete concentric with a tie, 
+          t                                   t                                     
+                                                  used to dimension nodal zone, in. 
+                                              w  = maximum eඒective height of concrete concentric 
+                                              t,max
+                                                  with a tie, in.                   
+         w  = factored load per unit length of beeaamm oorr oonnee--wwaayy          
+          u                                                                         
+              slab, lb/in.
+         w/cm = water-cementitious materiaallss rraattio       
+         W  = eඒect of wind load
+                                              WWWW = sseerrvice-leevveell wwiinndd load, lb
+                                               aa                                   
+         y  = distance from centroiiddaal axiiss ooff ggrroossss sseecctioonn,,     
+          t                                                                         
+              neglecting reinforcemeennt, to teennssiioonn ffaaccee,, iinn..        
+         ŋ = angle deÜning the oriennttaation ooff  rreeiinnffoorrcceemmeennt
+         ŋ = coeඓcient  deÜning  thee   rrelativvee   ccoonnttrriibbuuttiioon  ooff  
+          c                                                                         
+              concrete strength to nominal wall shhear strength                     
+         ŋ = ratio of Ýexural stiඒness of beam section to Ýex- ŋ = E IIII ////EEE IIII
+          f                                   f    cbb bb ccssss ss                 
+              ural stiඒness of a width of slab bounded laterally by 
+              centerlines of adjacent panels, if any, on each siddee                
+              of the beam                                                           
+         ŋ = average value of ŋ for all beams on edges of a panel
+          fm f                                                        
+         ŋ = constant used to calculate V in slabs and footings             
+          s                  c                                                      
+         ŋ = minimum angle between unidirectional distributed               
+          1                                                                         
+              reinforcement and a strut                                             
+         Ȳ = ratio of long to short dimensions: clear spans for 
+              two-way slabs, sides of column, concentrated load                     
+              or reaction area; or sides of a footing                               
+         Ȳ = ratio of area of reinforcement cut oඒ to total area of 
+          b                                                                         
+              tension reinforcement at section                                      
+         Ȳ = conÜnement  modiÜcation  factor  for  struts  and 
+          c                                                                         
+              nodes in a strut-and-tie model                                        
+         Ȳ = ratio used to account for reduction of stiඒness of 
+          dns                                                                       
+              columns due to sustained axial loads                                  
+         Ȳ = the ratio of maximum factored sustained shear                  
+          ds                                                                        
+              within a story to the maximum factored shear in that                  
+              story associated with the same load combination                       
+         Ȳ = factor used to account for the eඒect of the anchorage 
+          n                                                                         
+              of ties on the eඒective compressive strength of a 
+              nodal zone                                                            
+         Ȳ = factor used to account for the eඒect of cracking and 
+          s                                                                         
+              conÜning reinforcement on the eඒective compres-
+              sive strength of the concrete in a strut                              
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      28            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+      Ȳ = factor relating depth of equivalent rectangular                   
+      1                                                                             
+           compressive stress block to depth of neutral axis                        
+      ȳ = factor used to determine the fraction of M trans-                 
+      f                            sc                                               
+           ferred by slab Ýexure at slab-column connections
+      ȳ = factor used for type of prestressing reinforcement                
+      p                                                                             
+      ȳ = factor used to determine the portion of reinforce-                
+      s                                                                             
+           ment located in center band of footing                                   
+      ȳ = factor used to determine the fraction of M trans-                 
+      v                            sc                                               
+           ferred by eccentricity of shear at slab-column                           
+           connections                                                              
+      Ō = moment magniÜcation factor used to reÝect eඒects 
+           of member curvature between ends of a compres-                           
+           sion member                                                              
+      Ō = wall displacement capacity at top of wall, in.                    
+      c                                                                             
+      Ō = moment magniÜcation factor used for frames not 
+      s                                                                             
+           braced  against  sidesway,  to  reÝect  lateral  drift 
+           resulting from lateral and gravity loads                                 
+      Ō = design displacement, in.                                          
+      u                                                                             
+      Å = calculated out-of-plane deÝection at midheiigghhtt  ooff  
+       cr                                                                           
+           wall corresponding to cracking mommeenntt MMMM ,, iinn..                 
+                                  ccrr                                              
+      Å = calculated out-of-plane deÝeccttiioonn  aatt  mmidheight of 
+       n                                                                            
+           wall corresponding to nommiinnaall  ÝÝexural strength M ,
+                                      n                                             
+           in.                                                                      
+      Å = relative  lateral  deÝecttiioonn  betwweeeenn   tthhee   ttoopp  anndd  
+       o                                                                            
+           bottom of a story due ttoo V , inn..                                     
+                         us                                                         
+      Åf = increase in stress in prreestresseedd rreeiinnffoorrcceemmeennt dduuee
+       p                                                                            
+           to factored loads, psi                                                   
+      Åf = stress in prestressed reinnffoorcemmeenntt aatt sseerrvviiccee loaddss
+       ps                                                                           
+           less decompression stress, psi                                           
+                                          Åf = diඒඒeerreennccee  bbetween the stress that can be devel-
+                                           pt                                       
+                                               ooppeedd iinn the prestressed reinforcement at the section
+                                               under consideration and the stress required to resist
+                                               factored bending moment at section, M /ࣂ, psi
+                                                                     u              
+      Å = residual deÝection measured 24 hours after removal 
+       r                                                                            
+           of the test load. For the Ürst load test, residual 
+           deÝection is measured relative to the position of the 
+           structure at the beginning of the Ürst load test. For 
+           the second load test, residual deÝection is measured 
+           relative to the position of the structure at the begin-                  
+           ning of the second load test, in.                                        
+      Å = out-of-plane deÝection due to service loads, in.
+       s                                                                            
+      Å = calculated out-of-plane deÝection at midheight of 
+       u                                                                            
+           wall due to factored loads, in.                                          
+      Å = design story drift of story x, in.                         
+       x                                                                     
+      Å = maximum  deÝection,  during  Ürst  load  test, 
+       1                                                                            
+           measured 24 hours after application of the full test                     
+           load, in.                                                                
+      Å = maximum  deÝection,  during  second  load  test, 
+       2                                                                            
+           measured 24 hours after application of the full test                     
+           load. DeÝection is measured relative to the position 
+           of the structure at the beginning of the second load                     
+           test, in.                                                                
+                                          ō = maximum usable strain at extreme concrete
+                                           cu                                       
+                                               compression Über
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       29     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         ō = net tensile strain in extreme layer of longitu- t              
+              dinal tension reinforcement at nominal strength,                      
+              excluding strains due to eඒective prestress, creep, 
+              shrinkage, and temperature
+         ō = value of net tensile strain in the extreme layer of 
+          ty                                                                        
+              longitudinal tension reinforcement used to deÜne a 
+              compression-controlled section
+         ȶ = angle between axis of strut, compression diagonal, 
+              or compression Üeld and the tension chord of the 
+              members              
+         ȹ = modiÜcation factor to reÝect the reduced mechan- ȹ = in most cases, the reduction in mechanical prop-
+              ical properties of lightweight concrete relative to  erties is caused by the reduced ratio of tensile-
+              normalweight concrete of the same compressive  to-compressive  strength  of  lightweight  concrete 
+              strength                            compared  to  normalweight  concrete.  There  are 
+                                                  instances in the Code where ȹ is used as a modi-
+                                                  Üer to reduce expected performance of lightweight 
+                                                  concrete where the reduction is not related directly 
+                                                  to tensile strength.
+         ȹ = modiÜcation factor to reÝect the reduced mechhaann-
+          a                                                                         
+              ical properties of lightweight connccrreettee  iinn  cceerrttaaiinn 
+              concrete anchorage applicationnss
+         ȹ = factor used to modify sheaarr  ssttrreength based on the 
+          s                                                                         
+              eඒects of member depthh,,  ccoommonly referred to as 
+              the size eඒect factor.
+         ȹ = multiplier used for aadddditionaall  ddeeÝÝeeccttiioonn  dduue ttoo  
+          Å                                                                 
+              long-term eඒects
+         Ⱥ = coeඓcient of friction
+         ȼ = time-dependent factor foorr  sustaiinneedd  llooaadd
+         Ⱦ = ratio of A to bd
+                   s                                                                
+         Ⱦƪ = ratio of Aƪ to bd
+                   s                                                                
+         Ⱦ = ratio of area of distributed longitudinal reinforce-
+          ƭ                                                                 
+              ment to gross concrete area perpendicular to thaatt 
+              reinforcement                                                         
+         Ⱦ = ratio of A to bd                                               
+          p        ps  p                                                            
+         Ⱦ = ratio of volume of spiral reinforcement to total 
+          s                                                                         
+              volume of core conÜned by the spiral, measured 
+              out-to-out of spirals
+         Ⱦ = ratio of area of distributed transverse reinforce-
+          t                                                                         
+              ment to gross concrete area perpendicular to that 
+              reinforcement                                                         
+         Ⱦ = ratio of tie reinforcement area to area of contact             
+          v                                                                         
+              surface                                                               
+         Ⱦ = ratio of A to b d                                              
+          w        s  w                                                             
+                                              ȿ = exponent symbol in tensile/shear force interaction 
+                                                  equation                          
+         ࣂ = strength reduction factor
+                                              ࣂ = stiඒness reduction factor
+                                              K                                     
+         ࣂ = strength reduction factor for moment in preten-
+          p                                                                         
+              sioned member at cross section closest to the end of 
+              the member where all strands are fully developed
+                                              Ŏ = wall  boundary  extreme  Über  concrete  nominal 
+                                                  compressive stress, psi
+         ŏ = characteristic bond stress of adhesive anchor in 
+          cr                                                                        
+              cracked concrete, psi
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+      30            ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE  
+                                                                                    
+                                                                                    
+                    CODE                            COMMENTARY                      
+      ŏ = characteristic bond stress of adhesive anchor in                  
+      uncr                                                                          
+           uncracked concrete, psi                                                  
+      ψ = shear lug bearing factor used to modify bearing                   
+       brg,sl                                                                       
+           strength of shear lugs based on the inÝuence of 
+           axial load                                                               
+      ψ = factor used to modify development length based on                 
+       c                                                                            
+           concrete strength                                                        
+      ψ = breakout cracking factor used to modify tensile                   
+       c,N                                                                          
+           strength of anchors based on the inÝuence of cracks 
+           in concrete                                                              
+      ψ = pullout cracking factor used to modify pullout                    
+       c,P                                                                          
+           strength of anchors based on the inÝuence of cracks 
+           in concrete                                                              
+      ψ = breakout cracking factor used to modify shear                     
+       c,V                                                                          
+           strength of anchors based on the inÝuence of cracks 
+           in concrete and presence or absence of supplemen-                        
+           tary reinforcement                                                       
+      ψ = breakout splitting factor used to modify tensile                  
+       cp,N                                                                         
+           strength of post-installed anchors intendeedd ffoorr                     
+           use in uncracked concrete withoutt ssuupppplleemmeennttaarryy            
+           reinforcement to account forr tthhee sspplliitting tensile               
+           stresses                                                                 
+      ψ = bond splitting factor usedd ttoo modify tensile strength          
+       cp,Na                                                                        
+           of adhesive anchors intteennded forr uussee iinn uunnccrraackedd         
+           concrete without supppplemennttaarryy rreeiinnffoorrcceemeenntt          
+           to account for the spliitttting teennssiillee ssttrreesssseess dduee ttoo
+           installation                                                             
+      ψ = factor used to modify deevveelopmmeenntt lleennggtthh bbaassed oonn
+       e                                                                            
+           reinforcement coating                                                    
+      ψ = breakout eccentricity factor used to modify tensile               
+       ec,N                                                                         
+           strength of anchors based on eccentricity of applied                     
+           loads                                                                    
+      ψ = breakout eccentricity factor used to modify tensile               
+       ec,Na                                                                        
+           strength of adhesive anchors based on eccentricity                       
+           of applied loads                                                         
+      ψ = breakout eccentricity factor used to modify shear                 
+       ec,V                                                                         
+           strength of anchors based on eccentricity of applied                     
+           loads                                                                    
+      ψ = breakout edge eඒect factor used to modify tensile 
+       ed,N                                                                         
+           strength of anchors based on proximity to edges of                       
+           concrete member                                                          
+      ψ = breakout edge eඒect factor used to modify tensile 
+       ed,Na                                                                        
+           strength of adhesive anchors based on proximity to                       
+           edges of concrete member                                                 
+      ψ = breakout edge eඒect factor used to modify shear 
+       ed,V                                                                         
+           strength of anchors based on proximity to edges of                       
+           concrete member                                                          
+      ψ = factor used to modify development length based on                 
+       g                                                                            
+           grade of reinforcement                                                   
+      ψ = breakout thickness factor used to modify shear                    
+       h,V                                                                          
+           strength of anchors located in concrete members                          
+           with h < 1.5c                                                            
+              a   a1                                                                
+      ψ = factor used to modify development length of hooked                
+       o                                                                            
+           and headed bars based on side cover and conÜnement
+                       American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                           ACICollectionLicensedto:ShannonBanchero
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                       PART 1: GENERAL                       31     
+                                                                                    
+                                                                                    
+                       CODE                             COMMENTARY                  
+         ψ = factor used to modify development length for p                 
+              headed reinforcement based on parallel tie                            
+              reinforcement                                                         
+         ψ = factor used to modify development length based on r            
+              conÜning reinforcement
+         ψ = factor used to modify development length based on              
+          s                                                                         
+              reinforcement size                                                    
+         ψ = factor used to modify development length for                   
+          t                                                                         
+              casting location in tension                                           
+         ψ = factor used to modify development length for                   
+          w                                                                         
+              welded deformed wire reinforcement in tension                         
+         Ω = ampliÜcation factor to account for overstrength of 
+          o                                                                         
+              the seismic-force-resisting system determined in                      
+              accordance with the general building code                             
+         Ω = overstrength factor equal to the ratio of M /M at       
+          v                           pr u                                          
+              the wall critical section                                             
+         Ƀ = factor to account for dynamic shear ampliÜcation
+          v                                                                         
+         2.3—Terminology                      RR22..33—Terminology                  
+          adhesive—chemical components forrmmuullaatteedd ffrroomm                  
+         organic polymers, or a combination of oorrggaanniicc ppolymers and         
+         inorganic materials that cure if blennddeedd ttoogether.                   
+          admixture—material other tthhaan water, aggregate,                        
+         cementitious materials, and Übeerr  rreinforrcceemmeenntt  uusseedd  as ann  
+         ingredient, which is added to ggrout, mmoorrttaarr,, oorr ccoonnccreettee,,
+         either before or during its mixxiing, too mmooddiiffyy tthhee ffrreshhllyy 
+         mixed, setting, or hardened proppeerrties ooff tthhee mmiixxttuurree..     
+          aggregate—granular materiall,, suchh aass ssaanndd,, ggrraveell,, aagggreeggaatte—Thhee uussee ooff recycled aggregate is addressed
+         crushed stone, iron blast-furnace slag, or recycled aggre- in the Code in 22001199..  TThe deÜnition of recycled materials 
+         gates including crushed hydraulic cement concrete, used in ASTM C3333 iiss vveerryy broad and is likely to include mate-
+         with a cementing medium to form concrete or mortar. rialss tthhaatt wwoouulldd not be expected to meet the intent of the
+                                              pprroovviissiioons of this Code for use in structural concrete. Use
+                                              of recycled aggregates including crushed hydraulic-cement
+                                              concrete in structural concrete requires additional precau-
+                                              tions. See 26.4.1.2.1(c).             
+          aggregate, lightweight—aggregate meeting the require- aggregate, lightweight—In some standards, the term
+         ments of ASTM C330 and having a loose bulk density of “lightweight aggregate” is being replaced by the term “low-
+         70 lb/ft3 or less, determined in accordance with ASTM C29. density aggregate.”
+          alternative cement—an inorganic cement that can be used alternative cements—Alternative cements are described
+         as a complete replacement for portland cement or blended in the references listed in R26.4.1.1.1(b). Refer to
+         hydraulic cement, and that is not covered by applicable spec- 26.4.1.1.1(b) for precautions when using these materials in
+         iÜcations for portland or blended hydraulic cements. concrete covered by this Code.
+          anchor—a steel element either cast into concrete or anchor—Cast-in anchors include headed bolts, hooked
+         post-installed into a hardened concrete member and used to bolts (J- or L-bolt), and headed studs. Post-installed anchors
+         transmit applied loads to the concrete. include expansion anchors, undercut anchors, screw
+                                              anchors, and adhesive anchors; steel elements for adhesive
+                                              anchors include threaded rods, deformed reinforcing bars, or
+                                              internally threaded steel sleeves with external deformations.
+                                              Anchor types are shown in Fig. R2.1.  
+                          American Concrete Institute – Copyrighted © Material – www.concrete.org
+                                                                                .mreT
+                                                                                &   
+                                                                                .toN
+                                                                                2   
+                                                           ACICollectionLicensedto:ShannonBanchero
+

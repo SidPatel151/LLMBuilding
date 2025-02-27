@@ -1,0 +1,406 @@
+Variable,Description
+a,"depth of equivalent rectangular stress block, in."
+a_v,"shear span, equal to distance from center of concen-"
+A_b,"area of an individual bar or wire, in.2"
+A_bp,area of the attachment base plate in contact with
+A_brg,"net bearing area of the head of stud, anchor bolt, or"
+A_c,"area of concrete section resisting shear transfer, in.2"
+A_cf,greater gross cross-sectional area of the two orthog-
+A_ch,cross-sectional area of a member mmeeaassuurreedd ttoo tthhee
+A_cp,area enclosed by outsidee ppeerriimeter of concrete
+A_cs,cross-sectional area at oonnee end ooff aa ssttrruutt iinn aa strut--
+A_ct,area of that part of crossss sectioonn  bbeettwweeeenn  tthhee Ýeexx--
+A_cv,gross area of concrete section boundded by web
+A_cw,"area of concrete section of an individual pier, hori-"
+"A_ef,sl","eඒective bearing area of shear lug, in2."
+A_f,area of reinforcement in bracket or corbel resisting
+A_g,"gross area of concrete section, in.2 For a hollow"
+A_h,total area of shear reinforcement parallel to primary
+A_hs,total cross-sectional area of hooked or headed bars
+A_j,eඒective cross-sectional area within a joint in a
+A_ƭ,total area of longitudinal reinforcement to resist
+"A_ƭ,min",minimum area of longitudinal reinforcement to                          .mreT &    .toN
+A_n,area of reinforcement in bracket or corbel resisting
+A_nz,area of a face of a nodal zone or a section through a
+A_Na,projected inÝuence area of a single adhesive anchor
+A_Nao,projected  inÝuence  area  of  a  single  adhesive
+A_Nc,projected concrete failure area of a single anchor
+A_Nco,"projected concrete failure area of a single anchor,"
+A_o,"gross area enclosed by torsional shear Ýow path,"
+A_oh,area enclosed by centerline of the outermost cclloosseedd
+A_pd,"total area occupied by duucctt,, sshheeathing, and"
+A_ps,area of prestressed longgiittuuddinal tension reinforce-
+A_pt,"total area of prestressinngg reinfoorrcceemmeenntt,, iinn..22"
+A_s,area of nonprestressedd longittuuddiinnaall tteennssiioonn reeiinn--
+Aƪ_s,"area of compression reinnffoorcemmeenntt,,  iinn..22"
+A_sc,area of primary tension reinforcement iin a corbel or
+"A_se,N","eඒective cross-sectional area of anchor in tension,"
+"A_se,V","eඒective cross-sectional area of anchor in shear,"
+A_sh,total cross-sectional area of transverse reinforce-
+A_si,total area of surface reinforcement at spacing s in
+"A_s,min","minimum area of Ýexural reinforcement, in.2"
+A_st,total area of nonprestressed longitudinal reinforce-
+A_t,"area of one leg of a closed stirrup, hoop, or tie"
+A_th,total cross-sectional area of ties or stirrups conÜning
+A_tp,"area of prestressing reinforcement in a tie, in.2"
+A_tr,total cross-sectional area of all transverse reinforce-
+A_ts,"area of nonprestressed reinforcement in a tie, in.2"
+A_parallel,total cross-sectional area of ties or stirrups acting as tt
+A_v,"area of shear reinforcement within spacing s, in.2"
+A_onal,total area of reinforcement in each group of diag- vd
+A_vf,"area of shear-friction reinforcement, in.2"
+A_vh,area  of  shear  reinforcement  parallel  to  Ýexural
+"A_v,min",minimum area of shear reinforcement within
+A_Vc,projected concrete failure area of a single anchor
+A_Vco,"projected concrete failure area of a single anchor,"
+A_1,"loaded area for consideration of bearing, struutt,, aanndd"
+A_2,area of the lower base of the llaarrggeesstt frustum of a
+b,"width of compression ffaacce of mmeemmbbeerr,, iinn.."
+b_c,cross-sectional dimenssiioon ooff mmeemmbbeerr corree
+b_f,"eඒective Ýange width, in."
+b_o,perimeter of critical section for two-way shear iinn
+b_s,"width of strut, in."
+b_sl,"width of shear lug, in."
+b_slab,"eඒective slab width, in."
+b_t,width of that part of cross section containing the
+b_v,width of cross section at contact surface being
+b_w,"web width or diameter of circular section, in."
+b_1,dimension of the critical section b measured in the
+b_2,dimension of the critical section b measured in the
+B_n,"nominal bearing strength, lb"
+B_u,"factored bearing load, lb"
+"c_axis,",distance from extreme compression Über to neutral
+c_ac,critical edge distance required to develop the basic                   .mreT &    .toN
+"c_a,max",maximum distance from center of an anchor shaft
+"c_a,min",minimum distance from center of an anchor shaft to
+c_a1,distance from the center of an anchor shaft to the
+cƪ_a1,limiting value of c where anchors are located less
+c_a2,distance from center of an anchor shaft to the edge
+c_b,lesser of: (a) the distance from center of a bar or
+c_c,"clear cover of reinforcement, iinn.."
+c_Na,projected distance from ceenntteerr of an anchor shaft
+c_sl,distance from the centteerrline off tthhee rrooww ooff aannchoorrss
+c_t,distance from the interioorr face ooff tthhee ccoolluummnn tto thhee
+c_1,dimension of rectangular or equivalent rectangular
+c_2,dimension of rectangular or equivalent rectangular
+C,"compressive force acting on a nodal zone, lb"
+C_m,factor relating actual moment diagram to an equiv-
+d_of,distance from extreme compression Über to centroid
+dƪ_of,distance from extreme compression Über to centroid
+d_a,outside diameter of anchor or shaft diameter of
+d_agg,"nominal maximum size of coarse aggregate, in."
+d_b,"nominal diameter of bar, wire, or prestressing"
+d_burst,distance from the anchorage device to the centroid
+d_p,distance from extreme compression Über to centroid
+d,"diameter of pile at footing base, in. pile"
+D,eඒect of service dead load
+D_s,eඒect of superimposed dead load
+D_structural,eඒect of self-weight dead load of the concrete  w
+e_anc,eccentricity of the anchorage device or group of
+e_h,distance from the inner surface of the shaft of a J-
+eƪ_N,distance between resultant tension load on a group
+eƪ_V,distance between resultant shear load on a group of
+E_forces,eඒect of horizontal and vertical earthquake-inndduucceedd
+E_c,"modulus of elasticity of concrreettee,, ppssii"
+E_cb,"modulus of elasticity of beeaamm ccooncrete, psi"
+E_cs,"modulus of elasticity of ssllaabb concrete, psi"
+EI_eਙ,"Ýexural stiඒness of memmbber, in.2--llbb (EI) = eඒective Ýexural stiඒnneesss of mmeemmbbeerr,,  iinn..22--llbb"
+E_p,"modulus of elasticity off prestreessssiinngg rreeiinnffoorrcceemmeenntt,,"
+E_s,modulus of elasticity off rreinfoorrcceemmeenntt aanndd sstrucc--
+fƪ_c,"speciÜed compressive strength of concrete, psi"
+f_ce,eඒective compressive strength of the concrete in a
+f_d,"stress due to unfactored dead load, at extreme Über"
+f_dc,decompression stress; stress in the prestressed rein-
+f_pc,"compressive stress in concrete, after allowance                        .mreT &    .toN"
+f_pe,compressive stress in concrete due only to eඒective
+f_ps,stress in prestressed reinforcement at nominal Ýex-
+f_pu,speciÜed tensile strength of prestressing reinforce-
+f_py,speciÜed yield strength of prestressing reinforce-
+f_r,"modulus of rupture of concrete, psi"
+f_s,"tensile stress in reinforcement at service loads,"
+fƪ_s,compressive stress in reinforcement under factored
+f_se,"eඒective stress in prestressed reinforcement, after"
+ffff_ssii,"= ssttrreessss in the i-th layer of surface reinforcement, psi"
+f_t,extreme Über stress in the prreeccoommpprreessed tension
+f_uta,"speciÜed tensile strenggtthh of ancchhoorr  sstteeeell,,  ppssii"
+f_y,speciÜed yield strenggtthh for nnoonnpprreessttrreesssseedd  reeiinn--
+f_ya,"speciÜed yield strength ooff  anchoorr  sstteeeell,,  ppssii"
+f_yt,speciÜed  yield  strength  of  transverse  reinforce-
+F_pressures,eඒect of service load due to Ýuids with well-deÜned
+F_nn,"nominal strength at face of a nodal zone, lb"
+F_ns,"nominal strength of a strut, lb"
+F_nt,"nominal strength of a tie, lb"
+F_un,"factored force on the face of a node, lb"
+F_us,"factored compressive force in a strut, lb"
+F_ut,"factored tensile force in a tie, lb"
+h,"overall thickness, height, or depth of member, in."
+h_a,"thickness of member in which an anchor is located,"
+h_anc,dimension of anchorage device or single group of
+h_ef,"eඒective embedment depth of anchor, in."
+hƪ_ef,limiting value of h where anchors are located less
+"h_ef,sl","eඒective embedment depth of shear lug, in."
+h_sl,"embedment depth of shear lug, in."
+h_sx,"story height for story x, in."
+h_u,laterally unsupported height at extreme compres-
+h_height,"height of entire wall from base to top, or clear w"
+h_wcs,height of entire structural wall above the critical
+h_x,maximum center-to-center spacing of longitudinal
+H_ground,"eඒect of service load due to lateral earth pressure,"
+I_in,"moment of inertia of section about centroidal axis,"
+I_b,moment of inertia of gross section of beam about
+I_cr,moment of inertia of cracked section transformed
+I_e,eඒective  moment  of  inertia  for  calculation  of
+I_g,moment of inertia of gross concrettee sseeccttiioonn aabboouutt
+I_s,moment of inertia of grossss sseecction of slab about
+I_se,moment of inertia of reiinnffoorcemeenntt aabboouutt cceennttrroidaall
+k,eඒective length factor ffoor commpprreessssiioonn  mmeemmbberss
+k_c,coeඓcient for basic coonncrete bbrreeaakkoouutt  ssttrreennggthh  iinn
+k_cp,coeඓcient for pryout strength
+k_f,concrete strength factor
+k_n,conÜnement eඒectiveness factor
+KK_t,torsional stiඒness of member; moment per unit
+K_tr,"transverse reinforcement index, in."
+K_05,coeඓcient associated with the 5 percent fractile
+ƭ_tion,span length of beam or one-way slab; clear projec-
+ƭ_anc,"length along which anchorage of a tie must occur,"
+ƭ_b,"width of bearing, in."
+ƭ_a,additional embedment length beyond centerline of
+ƭ_be,length of boundary element from compression face
+ƭ_c,"length of compression member, measured center-"
+ƭ_cb,"arc length of bar bend along centerline of bar, in."
+ƭ_d,"development length in tension of deformed bar,"
+ƭ_dc,development length in compression of deformed
+ƭ_db,debonded length of prestressed reinforcement at                 .mreT &    .toN
+ƭ_dh,development length in tension of deformed bar or
+ƭ_dt,development length in tension of headed deformed
+ƭ_e,"load bearing length of anchor for shear, in."
+ƭ_ext,"straight extension at the end of a standard hook, in."
+ƭ_n,length of clear span measured face-to-face of
+ƭ_o,"length, measured from joint face along axis of"
+ƭ_sc,"compression lap splice length, in."
+ƭ_st,"tension lap splice length, in."
+ƭ_t,"span of member under load test, taken as the shorter"
+ƭ_tr,"transfer length of prestrreesssed reiinnffoorrcceemmeenntt,, iinn."
+ƭ_u,"unsupported length of ccoolumn oorr wwaallll,, iinn.."
+ƭ_w,"length of entire wall, oorr lengthh ooff wwaallll sseeggmmeentt oorr"
+ƭ_1,length of span in directioonn that mmoommeennttss aarree bbeinngg
+ƭ_2,"length of span in direction perpendicular to ƭ ,"
+L,eඒect of service live load
+L_r,eඒect of service roof live load
+M,"moment acting on anchor or anchor group, in.-lb"
+M_a,maximum moment in member due to service loads
+M_c,factored  moment  ampliÜed  for  the  eඒects  of
+M_cr,"cracking moment, in.-lb"
+M_cre,moment causing Ýexural cracking at section due to
+M_max,maximum factored moment at section due to exter-
+M_n,"nominal Ýexural strength at section, in.-lb"
+M_nb,nominal Ýexural strength of beam including slab
+M_nc,nominal Ýexural strength of column framing into
+M_pr,"probable Ýexural strength of members, with or"
+M_sa,"maximum moment in wall due to service loads,"
+M_sc,factored slab moment that is resisted by the column
+M_u,"factored moment at section, in.-lb"
+M_ua,moment at midheight of wall due to factored lateral
+M_1,lesser factored end moment on a compression
+M_1ns,factored end moment on a compression member at
+M_1s,factored end moment on compression member at
+M_2,greater factored end momenntt oonn aa compression
+"M_2,min","minimum value of M ,, iin.-lb"
+M_2ns,factored end moment oonn commpprreessssiioonn mmeemmbberr aatt
+M_2s,factored end moment on compression member at
+n_anchorage,"number of items, such as, bars, wires, monostrand"
+n_ƭ,number of longitudinal bars around the perimeter of
+n_s,number of stories above the critical section
+n_t,number of threads per inch
+N,"tension force acting on anchor or anchor group, lb"
+N_a,nominal bond strength in tension of a single adhe-
+N_ag,nominal bond strength in tension of a group of
+N_b,basic concrete breakout strength in tension of a
+N_ba,basic bond strength in tension of a single adhesive
+N_c,resultant tensile force acting on the portion of the                   .mreT &    .toN
+N_cb,nominal concrete breakout strength in tension of a
+N_cbg,nominal concrete breakout strength in tension of a
+N_cp,"basic concrete pryout strength of a single anchor, lb"
+N_cpg,basic concrete pryout strength of a group of
+N_n,"nominal strength in tension, lb"
+N_p,pullout strength in tension of a single anchor in
+N_pn,nominal pullout strength in tension of a single
+N_sa,nominal strength of a single anchor or individual
+N_sb,"side-face blowout strength of a single anchor, lb"
+N_sbg,"side-face blowout strength of a group of anchors, lb"
+N_u,factored axial force normal to cross section occur-
+N_ua,factored tensile force appplliieedd to anchor or indi-
+"N_ua,g","total factored tensile forrccee applieedd ttoo aanncchhoorr ggroupp,,"
+"N_ua,i",factored tensile forcee applieedd ttoo mmoosstt hhigghhllyy
+"N_ua,s","factored sustained tensioonn load, llbb"
+N_uc,factored restraint force appllied to a bbearing connec-
+"N_uc,max",maximum restraint force that can be transmitteedd
+p_cp,"outside perimeter of concrete cross section, in."
+p_h,perimeter of centerline of outermost closed trans-
+P_a,maximum allowable compressive strength of a
+P_c,"critical buckling load, lb"
+P_n,"nominal axial compressive strength of member, lb"
+"P_n,max",maximum nominal axial compressive strength of a
+P_nt,"nominal axial tensile strength of member, lb"
+"P_nt,max","maximum nominal axial tensile strength of member,"
+P_o,"nominal axial strength at zero eccentricity, lb"
+P_pu,"factored prestressing force at anchorage device, lb"
+P_s,"unfactored axial load at the design, midheight"
+P_u,factored axial force; to be taken as positive for
+"PŌ_derness,",secondary moment due to individual member slen-
+PÅ,"secondary moment due to lateral deÝection, in.-lb"
+q_u,"factored load per unit area, lb/ft2"
+Q,stability index for a story
+r,"radius of gyration of cross section, in."
+r_b,"bend radius at the inside of a bar, in."
+R,"cumulative load eඒect of service rain load R = reaction, lb"
+s_tudinal,"center-to-center spacing of items, such as longi-"
+s_i,center-to-center spacing of reinforcement in the i-th
+s_o,center-to-center spacing of transverse reinforce-
+s_s,"sample standard deviation, psi"
+s_w,"clear distance between adjacent webs, in."
+s_2,center-to-center spacing of longitudinal shear or
+S,eඒect of service snow load
+S_DS,"5 percent damped, spectral response acceleerraattiioonn"
+S_e,"moment, shear, or axial foorrccee aat connection corre-"
+S_m,"elastic section moduluss,, in.3"
+S_n,"nominal moment, shear,, aaxial, ttoorrssiioonn,, oorr bbeearinngg"
+S_y,"yield strength of connection, based on f of the"
+t,"wall thickness of hollow section, in."
+t_f,"thickness of Ýange, in."
+"T_shrinkage,","cumulative eඒects of service temperature, creep,  T = tension force acting on a nodal zone in a strut-and-"
+T_burst,tensile force in general zone acting ahead of the
+T_cr,"cracking torsional moment, in.-lb"
+T_t,"total test load, lb"
+T_th,"threshold torsional moment, in.-lb"
+T_n,"nominal torsional moment strength, in.-lb"
+T_u,"factored torsional moment at section, in.-lb"
+U_resist,strength of a member or cross section required to
+v_c,stress corresponding to nominal two-way shear                          .mreT &    .toN
+v_n,equivalent concrete stress corresponding to nominal
+v_s,equivalent concrete stress corresponding to nominal
+v_u,maximum factored two-way shear stress calculated
+v_uv,factored shear stress on the slab critical section for
+V,"shear force acting on anchor or anchor group, lb"
+V_the,maximum shear force that can be applied parallel to ||
+V_Ŭ,maximum shear force that can be applied perpen-
+V_b,basic concrete breakout strength in shear of a single
+"V_brg,sl",nominal bearing strength of a shear lug in direction
+V_c,"nominal shear strength provided byy ccoonnccrreettee,, llbb"
+V_cb,nominal concrete breakout sttrreennggtthh iinn shear of a
+V_cbg,nominal concrete breakkoouutt strength in shear of a
+"V_cb,sl",nominal concrete breeaakkout ssttrreennggtthh iinn sshheear ooff
+V_ci,nominal shear strength pprrovideedd bbyy ccoonnccrreettee wwhheerree
+V_cp,"nominal concrete pryout strength of a single anchor,"
+V_cpg,nominal concrete pryout strength of a group ooff
+V_cw,nominal shear strength provided by concrete where
+V_d,"shear force at section due to unfactored dead load,"
+V_e,design shear force for load combinations including
+V_i,factored shear force at section due to externally
+V_n,"nominal shear strength, lb"
+V_nh,"nominal horizontal shear strength, lb"
+V_p,vertical component of eඒective prestress force at
+V_s,nominal shear strength provided by shear reinforce-
+V_sa,nominal shear strength of a single anchor or indi-
+V_u,"factored shear force at section, lb"
+V_ua,factored shear force applied to a single anchor or
+V_lb,"total factored shear force applied to anchor group, ua,g"
+"V_ua,i",factored shear force applied to most highly stressed
+V_uh,factored shear force along contact surface in
+V_us,"factored horizontal shear in a story, lb"
+"V_u,x","factored shear force at section in the x-direction, lb"
+"V_u,y","factored shear force at section in the y-direction, lb"
+"V_n,x",shear strength in the x-direction
+"V_n,y",shear strength in the y-direction
+w_c,"density, unit weight, of normalweight concrete or"
+w_s,width of a strut perpendicular to the axis of the
+w_t,"eඒective tie width in a strut-and-tie model, in. w = eඒective height of concrete concentric with a tie,"
+"w_t,max",maximum eඒective height of concrete concentric
+w_u,factored load per unit length of beeaamm oorr oonnee--wwaayy
+W,eඒect of wind load
+WWWW_aa,"sseerrvice-leevveell wwiinndd load, lb"
+y_t,"distance from centroiiddaal axiiss ooff ggrroossss sseecctioonn,,"
+ŋ,angle deÜning the oriennttaation ooff  rreeiinnffoorrcceemmeennt
+ŋ_c,coeඓcient  deÜning  thee   rrelativvee   ccoonnttrriibbuuttiioon  ooff
+ŋ_f,ratio of Ýexural stiඒness of beam section to Ýex- ŋ = E IIII ////EEE IIII
+ŋ_fm,average value of ŋ for all beams on edges of a panel
+ŋ_s,constant used to calculate V in slabs and footings
+ŋ_1,minimum angle between unidirectional distributed
+Ȳ_two,ratio of long to short dimensions: clear spans for
+Ȳ_b,ratio of area of reinforcement cut oඒ to total area of
+Ȳ_c,conÜnement  modiÜcation  factor  for  struts  and
+Ȳ_dns,ratio used to account for reduction of stiඒness of
+Ȳ_ds,the ratio of maximum factored sustained shear
+Ȳ_n,factor used to account for the eඒect of the anchorage
+Ȳ_s,factor used to account for the eඒect of cracking and  .mreT &    .toN
+Ȳ_1,factor relating depth of equivalent rectangular
+ȳ_f,factor used to determine the fraction of M trans-
+ȳ_p,factor used for type of prestressing reinforcement
+ȳ_s,factor used to determine the portion of reinforce-
+ȳ_v,factor used to determine the fraction of M trans-
+Ō_of,moment magniÜcation factor used to reÝect eඒects
+Ō_c,"wall displacement capacity at top of wall, in."
+Ō_s,moment magniÜcation factor used for frames not
+Ō_u,"design displacement, in."
+Å_cr,calculated out-of-plane deÝection at midheiigghhtt  ooff
+Å_n,calculated out-of-plane deÝeccttiioonn  aatt  mmidheight of
+Å_o,relative  lateral  deÝecttiioonn  betwweeeenn   tthhee   ttoopp  anndd
+Åf_p,increase in stress in prreestresseedd rreeiinnffoorrcceemmeennt dduuee
+Åf_ps,stress in prestressed reinnffoorcemmeenntt aatt sseerrvviiccee loaddss
+Åf_pt,diඒඒeerreennccee  bbetween the stress that can be devel-
+Å_r,residual deÝection measured 24 hours after removal
+Å_s,"out-of-plane deÝection due to service loads, in."
+Å_u,calculated out-of-plane deÝection at midheight of
+Å_x,"design story drift of story x, in."
+Å_1,"maximum  deÝection,  during  Ürst  load  test,"
+Å_2,"maximum  deÝection,  during  second  load  test,"
+ō_cu,maximum usable strain at extreme concrete
+ō_dinal,net tensile strain in extreme layer of longitu- t
+ō_ty,value of net tensile strain in the extreme layer of
+ȶ_or,"angle between axis of strut, compression diagonal,"
+ȹ_ical,"modiÜcation factor to reÝect the reduced mechan- ȹ = in most cases, the reduction in mechanical prop-"
+ȹ_a,modiÜcation factor to reÝect the reduced mechhaann-
+ȹ_s,factor used to modify sheaarr  ssttrreength based on the
+ȹ_Å,multiplier used for aadddditionaall  ddeeÝÝeeccttiioonn  dduue ttoo
+Ⱥ,coeඓcient of friction
+ȼ,time-dependent factor foorr  sustaiinneedd  llooaadd
+Ⱦ_s,ratio of A to bd
+Ⱦƪ_s,ratio of Aƪ to bd
+Ⱦ_ƭ,ratio of area of distributed longitudinal reinforce-
+Ⱦ_p,ratio of A to bd
+Ⱦ_s,ratio of volume of spiral reinforcement to total
+Ⱦ_t,ratio of area of distributed transverse reinforce-
+Ⱦ_v,ratio of tie reinforcement area to area of contact
+Ⱦ_w,ratio of A to b d
+ȿ_equation,exponent symbol in tensile/shear force interaction
+ࣂ,strength reduction factor
+ࣂ_K,stiඒness reduction factor
+ࣂ_p,strength reduction factor for moment in preten-
+Ŏ_compressive,wall  boundary  extreme  Über  concrete  nominal
+ŏ_cr,characteristic bond stress of adhesive anchor in  .mreT &    .toN
+ŏ_uncr,characteristic bond stress of adhesive anchor in
+"ψ_brg,sl",shear lug bearing factor used to modify bearing
+ψ_c,factor used to modify development length based on
+"ψ_c,N",breakout cracking factor used to modify tensile
+"ψ_c,P",pullout cracking factor used to modify pullout
+"ψ_c,V",breakout cracking factor used to modify shear
+"ψ_cp,N",breakout splitting factor used to modify tensile
+"ψ_cp,Na",bond splitting factor usedd ttoo modify tensile strength
+ψ_e,factor used to modify deevveelopmmeenntt lleennggtthh bbaassed oonn
+"ψ_ec,N",breakout eccentricity factor used to modify tensile
+"ψ_ec,Na",breakout eccentricity factor used to modify tensile
+"ψ_ec,V",breakout eccentricity factor used to modify shear
+"ψ_ed,N",breakout edge eඒect factor used to modify tensile
+"ψ_ed,Na",breakout edge eඒect factor used to modify tensile
+"ψ_ed,V",breakout edge eඒect factor used to modify shear
+ψ_g,factor used to modify development length based on
+"ψ_h,V",breakout thickness factor used to modify shear
+ψ_o,factor used to modify development length of hooked
+ψ_headed,factor used to modify development length for p
+ψ_conÜning,factor used to modify development length based on r
+ψ_s,factor used to modify development length based on
+ψ_t,factor used to modify development length for
+ψ_w,factor used to modify development length for
+Ω_o,ampliÜcation factor to account for overstrength of
+Ω_v,overstrength factor equal to the ratio of M /M at
+Ƀ_v,factor to account for dynamic shear ampliÜcation .mreT &    .toN
