@@ -1,0 +1,3604 @@
+Source,Equation
+Text-Based,"Abrg = net bearing area of the head of stud, anchor bolt, or "
+Text-Based,"Acw = area of concrete section of an individual pier, hori-"
+Text-Based,"sl = eඒective bearing area of shear lug, in2"
+Text-Based,Ahs = total cross-sectional area of hooked or headed bars 
+Text-Based,min = minimum  area  of  longitudinal  reinforcement  to 
+Text-Based,ANa = projected inÝuence area of a single adhesive anchor 
+Text-Based,ANao = projected  inÝuence  area  of  a  single  adhesive 
+Text-Based,ANc = projected  concrete  failure  area  of  a  single  anchor 
+Text-Based,"ANco   = projected concrete failure area of a single anchor, "
+Text-Based,"N = eඒective cross-sectional area of anchor in tension, "
+Text-Based,"V = eඒective  cross-sectional  area  of  anchor  in  shear, "
+Text-Based,"min = minimum area of Ýexural reinforcement, in"
+Text-Based,min = minimum  area  of  shear  reinforcement  within 
+Text-Based,"AVco = projected concrete failure area of a single anchor, "
+Text-Based,"bslab = eඒective slab width, in"
+Text-Based,max = maximum distance from center of an anchor shaft 
+Text-Based,min = minimum distance from center of an anchor shaft to 
+Text-Based,"dagg = nominal maximum size of coarse aggregate, in"
+Text-Based,dburst = distance from the anchorage device to the centroid 
+Text-Based,eanc = eccentricity  of  the  anchorage  device  or  group  of 
+Text-Based,"dpile = diameter of pile at footing base, in"
+Text-Based,hanc = dimension of anchorage device or single group of 
+Text-Based,"sl = eඒective embedment depth of shear lug, in"
+Text-Based,hwcs = height  of  entire  structural  wall  above  the  critical 
+Text-Based,K05 = coeඓcient associated with the 5 percent fractile
+Text-Based,"M = moment acting on anchor or anchor group, in"
+Text-Based,"Mcr = cracking moment, in"
+Text-Based,Mcre = moment causing Ýexural cracking at section due to 
+Text-Based,Mmax = maximum factored moment at section due to exter-
+Text-Based,Mnb = nominal  Ýexural  strength  of  beam  including  slab 
+Text-Based,Mnc = nominal  Ýexural  strength  of  column  framing  into 
+Text-Based,"Mpr = probable  Ýexural  strength  of  members,  with  or "
+Text-Based,"Msa = maximum  moment  in  wall  due  to  service  loads, "
+Text-Based,Msc = factored slab moment that is resisted by the column 
+Text-Based,Mua = moment at midheight of wall due to factored lateral 
+Text-Based,M1ns = factored end moment on a compression member at 
+Text-Based,M1s = factored  end  moment  on  compression  member  at 
+Text-Based,"min = minimum value of M2, in"
+Text-Based,M2ns = factored  end  moment  on  compression  member  at 
+Text-Based,M2s = factored  end  moment  on  compression  member  at 
+Text-Based,Nag = nominal  bond  strength  in  tension  of  a  group  of 
+Text-Based,Nba = basic bond strength in tension of a single adhesive 
+Text-Based,Ncbg = nominal concrete breakout strength in tension of a 
+Text-Based,Ncpg = basic  concrete  pryout  strength  of  a  group  of 
+Text-Based,Npn = nominal  pullout  strength  in  tension  of  a  single 
+Text-Based,"Nsbg = side-face blowout strength of a group of anchors, lb"
+Text-Based,Nua = factored  tensile  force  applied  to  anchor  or  indi-
+Text-Based,"g = total factored tensile force applied to anchor group, "
+Text-Based,"s = factored sustained tension load, lb"
+Text-Based,i = factored  tensile  force  applied  to  most  highly 
+Text-Based,max= maximum  restraint  force  that  can  be  transmitted 
+Text-Based,Pa  = maximum  allowable  compressive  strength  of  a 
+Text-Based,max = maximum nominal axial compressive strength of a 
+Text-Based,"max= maximum nominal axial tensile strength of member, "
+Text-Based,Tburst = tensile  force  in  general  zone  acting  ahead  of  the 
+Text-Based,sl = nominal bearing strength of a shear lug in direction 
+Text-Based,Vcbg = nominal  concrete  breakout  strength  in  shear  of  a 
+Text-Based,sl = nominal  concrete  breakout  strength  in  shear  of 
+Text-Based,Vcpg = nominal  concrete  pryout  strength  of  a  group  of 
+Text-Based,Vcw = nominal shear strength provided by concrete where 
+Text-Based,"g = total factored shear force applied to anchor group, "
+Text-Based,i = factored shear force applied to most highly stressed 
+Text-Based,max = maximum  eඒective  height  of  concrete  concentric 
+Text-Based,"x = factored shear force at section in the x-direction, lb"
+Text-Based,"y = factored shear force at section in the y-direction, lb"
+Text-Based,x = shear strength in the x-direction
+Text-Based,y = shear strength in the y-direction
+Text-Based,cm = water-cementitious materials ratio
+Text-Based,W = eඒect of wind load
+Text-Based,sl = shear  lug  bearing  factor  used  to  modify  bearing 
+Text-Based,N = breakout  cracking  factor  used  to  modify  tensile 
+Text-Based,P = pullout  cracking  factor  used  to  modify  pullout 
+Text-Based,V = breakout  cracking  factor  used  to  modify  shear 
+Text-Based,N = breakout  splitting  factor  used  to  modify  tensile 
+Text-Based,Na = bond splitting factor used to modify tensile strength 
+Text-Based,N = breakout eccentricity factor used to modify tensile 
+Text-Based,Na = breakout eccentricity factor used to modify tensile 
+Text-Based,V = breakout  eccentricity  factor  used  to  modify  shear 
+Text-Based,N = breakout edge eඒect factor used to modify tensile 
+Text-Based,Na = breakout edge eඒect factor used to modify tensile 
+Text-Based,V = breakout  edge  eඒect  factor  used  to  modify  shear 
+Text-Based,V = breakout  thickness  factor  used  to  modify  shear 
+Text-Based,"n = ¯, to 2"
+Text-Based,"n = 40, and "
+Text-Based,n = 10
+Text-Based,"SDC = seismic design category as deÜned in code, standard, or resource document"
+Text-Based,"SPC = seismic performance category as deÜned in code, standard, or resource document"
+Text-Based,U = 1
+Text-Based,U = 1
+Text-Based,U = 1
+Text-Based,U = 1
+Text-Based,U = 1
+Text-Based,U = 0
+Text-Based,U = 0
+Text-Based,I = 0
+Text-Based,70  =  1
+Text-Based,Mc = ŌM2
+Text-Based,Cm = 1
+Text-Based,min = Pu(0
+Text-Based,M1 = M1ns + ŌsM1s
+Text-Based,M2 = M2ns + ŌsM2s
+Text-Based,y = 60 ksi
+Text-Based,y = 80 ksi
+Text-Based,d = 23
+Text-Based,d = 1/5
+Text-Based,strain = 0
+Text-Based,"fy  =  60,000  psi"
+Text-Based,Jc  =  property  of  assumed  critical  section  analogous  to 
+Text-Based,h = slab thickness
+Text-Based,Av = cross-sectional area of 
+Text-Based,Av = cross-sectional
+Text-Based,"fy  =  60,000  psi"
+Text-Based,min = 0
+Text-Based,k = 0
+Text-Based,m = 0
+Text-Based,k = 1
+Text-Based,k = 0
+Text-Based,k = 1
+Text-Based,m = 1
+Text-Based,eccentricity = h/6
+Text-Based,k = 2
+Text-Based,m = 1
+Text-Based,Mu = Mua + PuÅu
+Text-Based,Ma = Msa + PsÅs
+Text-Based,Pa = 0
+Text-Based,Pa = 0
+Text-Based,Pa = 0
+Text-Based,Pa = (0
+Text-Based,Pa = 0
+Text-Based,Mn = 0
+Text-Based,v = VQ/Ib
+Text-Based,width = lesser of
+Text-Based,h = Joint depth in 
+Text-Based,T = Transverse
+Text-Based,L = Longitudinal
+Text-Based,V = Vertical
+Text-Based,P = Perimeter
+Text-Based,Nn = An fy
+Text-Based,Ah = 0
+Text-Based,weld = db4
+Text-Based,weld = db4
+Text-Based,"Nsa = Ase,N futa"
+Text-Based,75 = 1
+Text-Based,ANc = (ca1 + 1
+Text-Based,ANco = (2 x 1
+Text-Based,ANc = (ca1 + s1 + 1
+Text-Based,ANc = (ca1 + s1 + 1
+Text-Based,"hef = (ca,max)/1"
+Text-Based,hef = hƪef = 
+Text-Based,hef = 5
+Text-Based,ef = max (6/1
+Text-Based,hef = 4 in
+Text-Based,Nc = (6 + 4)(5 + 9 + [1
+Text-Based,ANco = 9hef
+Text-Based,Nb = kcȹa
+Text-Based,kc = 24 for cast-in anchors and 17 for post-installed 
+Text-Based,Nb = 16ȹa
+Text-Based,N = 1
+Text-Based,N = 0
+Text-Based,N = 1)
+Text-Based,N = 1
+Text-Based,N  =  1
+Text-Based,N = 1
+Text-Based,Nkc  =  24  for  cast-in  anchors  and  17  for  post-installed 
+Text-Based,N = 1
+Text-Based,N = 
+Text-Based,"Npn = ψc,PNp"
+Text-Based,Np = 8Abrg fcƪ
+Text-Based,Np = 0
+Text-Based,Nsbg = 
+Text-Based,ANao = (2cNa)2
+Text-Based,cNa = 10da
+Text-Based,ANao = (2cNa)2
+Text-Based,ANa = (cNa + s1 + ca1)(cNa + s2 + ca2)
+Text-Based,Nba = ȹaŏcrʩdahef
+Text-Based,Na = 
+Text-Based,Na = 1
+Text-Based,Na = 0
+Text-Based,Na = 1
+Text-Based,Na = 
+Text-Based,"Vsa = Ase,V futa"
+Text-Based,Vsa = 0
+Text-Based,AVco = 2(1
+Text-Based,Avc = 2(1
+Text-Based,Avc = [2(1
+Text-Based,Avc = 1
+Text-Based,Avc = 2(1
+Text-Based,Avc = 2(1
+Text-Based,Avc = 2(1
+Text-Based,V  = 2V
+Text-Based,ca1 = 12 in
+Text-Based,2 = 5 in
+Text-Based,s = 9 in
+Text-Based,1 = 7 in
+Text-Based,ha = 8 in
+Text-Based,ca1 = 12 in
+Text-Based,5 = (7)/1
+Text-Based,5 = 4
+Text-Based,5 = (8)/1
+Text-Based,5 = 5
+Text-Based,3 = 9/3 = 3 in
+Text-Based,AVc = (5 + 9 + 7)(1
+Text-Based,AVco = 4
+Text-Based,2 = 128 in
+Text-Based,V = 0
+Text-Based,33 = 0
+Text-Based,V  = 1
+Text-Based,ca1 =(ha)/1
+Text-Based,AVco = 4
+Text-Based,Vb = 9ȹa
+Text-Based,V = 1
+Text-Based,V = 0
+Text-Based,Vcp = kcpNcp
+Text-Based,Vcpg = kcpNcpg
+Text-Based,kcp = 1
+Text-Based,kcp = 2
+Text-Based,min = 1
+Text-Based,sl = 1
+Text-Based,sl = 1
+Text-Based,U = 1
+Text-Based,wu = (1
+Text-Based,thickness = h
+Text-Based,thickness = h
+Text-Based,Vc  =  0 
+Text-Based,hoops = 14 in
+Text-Based,wu = (1
+Text-Based,Vc = 0 when both (a) and (b) occur:
+Text-Based,Ve = ΩvɃvVu ± 3Vu
+Text-Based,i = Vu
+Text-Based,Heff = 
+Text-Based,v = 
+Text-Based,"Ag = ƭbeb and Ach = bc1bc2, where "
+Text-Based,Vn = 2Avd fysinŋ ± 10
+Text-Based,Avd = total area of reinforcement in
+Text-Based,Avd = total area of reinforcement in
+Text-Based,Vn = Avf fyȺ
+Text-Based,Ec = wc
+Text-Based,"Ec = 57,000"
+Text-Based,fr = 7
+Text-Based,Asfs = AsEsōs
+Text-Based,fs = As fy
+Text-Based,t = ε
+Text-Based,t = ε
+Text-Based,a = Ȳ1c
+Text-Based,Po = 0
+Text-Based,Po = 0
+Text-Based,max = fyAst + (fse + Åfp)Apt
+Text-Based,Vn = Vc + Vs
+Text-Based,Vi = Vu Î Vd
+Text-Based,Mmax = Mu Î Md
+Text-Based,Vs = Av fysinŋ
+Text-Based,vn = vc
+Text-Based,vn = vc + vs
+Text-Based,q  =  ŏt
+Text-Based,"Di = Vi/sinȶ, in the concrete"
+Text-Based,"Ni = Vi(cotȶ), is required in the longitudinal reinforce-"
+Text-Based,Aoh = dark shaded area
+Text-Based,Vn = ȺAvf fy
+Text-Based,Vn = Avf fy(Ⱥsinŋ + cosŋ)
+Text-Based,Vn = 0)
+Text-Based,ws = wt cosθ + bsinθ
+Text-Based,wt = 2cb
+Text-Based,s = 
+Text-Based,Fns = fce Acs
+Text-Based,Fns = fce Acs + Asƪfsƪ
+Text-Based,fce = 0
+Text-Based,Fnt = Ats fy + AtpÅfp
+Text-Based,"max = Fnt/(fcebs), where fce is "
+Text-Based,Fnn = fceAnz 
+Text-Based,fce = 0
+Text-Based,fs = 
+Text-Based,"fs = 40,000 psi)"
+Text-Based,db = 1
+Text-Based,Ktr = 0 as a design simpliÜcation even if transverse 
+Text-Based,d = distance from free end of strand
+Text-Based,s = depth of general zone
+Text-Based,dburst = 0
+Text-Based,Tt = 1
+Text-Based,Tt = 1
+Text-Based,Tt = 1
+Text-Based,B = 0
+Text-Based,Vne = 1
+Text-Based,fy = 280 MPa
+Text-Based,fy = 420 MPa
+Text-Based,fy = 550 MPa
+Text-Based,fy = 690 MPa
+Text-Based,fpu = 1725 MPa
+Text-Based,fpu = 1860 MPa
+Text-Based,min = Pu(15 + 0
+Text-Based,fy = 2800 kgf/cm2
+Text-Based,fy = 4200 kgf/cm2
+Text-Based,fy = 5600 kgf/cm2
+Text-Based,fy = 7000 kgf/cm2
+Text-Based,"fpu = 17,600 kgf/cm2"
+Text-Based,"fpu = 19,000 kgf/cm2"
+Text-Based,"fy = 40,000 psi"
+Text-Based,"fy = 60,000 psi"
+Text-Based,"fy = 80,000 psi"
+Text-Based,"fy = 100,000 psi"
+Text-Based,"fpu = 250,000 psi"
+Text-Based,"fpu = 270,000 psi"
+Text-Based,min = Pu(1
+Text-Based,min = Pu(0
+Text-Based,fr = 0
+Text-Based,fr = 1
+Text-Based,h = 
+Text-Based,h = 
+Text-Based,h = 
+Text-Based,h = 
+Text-Based,h = 
+Text-Based,h = 
+Text-Based,fr = 5
+Text-Based,Vn = (ŋcȹ
+Text-Based,Vn = (ŋcȹ
+Text-Based,Vn = (ŋcȹ
+Text-Based,Vn = Acv(0
+Text-Based,Vn = Acv(0
+Text-Based,Vn = Acv(2ȹ
+Text-Based,Mn = 1
+Text-Based,Mn = 5ȹ
+Text-Based,Mn = 0
+Text-Based,Vn = 0
+Text-Based,Vn = 0
+Text-Based,Vn = 
+Text-Based,Nb = 3
+Text-Based,Nb = 5
+Text-Based,Nb = 16ȹa
+Text-Based,Nb = kcȹa
+Text-Based,Nb = kcȹa
+Text-Based,Nb = kcȹa
+Text-Based,kc = 10 or 7
+Text-Based,kc = 10 or 7
+Text-Based,kc = 24 or 17
+Text-Based,Nsb = 13ca1
+Text-Based,Nsb = 42
+Text-Based,Nsb = 160ca1
+Text-Based,Vb = 3
+Text-Based,Vb = 3
+Text-Based,Vb = 9ȹa
+Text-Based,Vn = Acv(ŋcȹ
+Text-Based,Vn = Acv(ŋcȹ
+Text-Based,Vn = Acv(ŋcȹ
+Text-Based,Vn = 2Avd fysinŋ ± 0
+Text-Based,Vn = 2Avd fysinŋ ± 2
+Text-Based,Vn = 2Avd fysinŋ ± 10
+Text-Based,Vn = Acv(0
+Text-Based,Vn = Acv(0
+Text-Based,Vn = Acv(2ȹ
+Text-Based,Ec = wc
+Text-Based,Ec = wc
+Text-Based,Ec = 4700
+Text-Based,fr = 0
+Text-Based,"Ec = 15,100"
+Text-Based,fr = 2ȹ
+Text-Based,Ec = wc
+Text-Based,"Ec = 57,000"
+Text-Based,fr = 7
+Text-Based,Vc = 0
+Text-Based,Vc = 1
+Text-Based,Vc = 5ȹ
+Text-Based,Vci = 0
+Text-Based,Vci = 0
+Text-Based,Vci = 0
+Text-Based,Vci = 0
+Text-Based,Vci = 0
+Text-Based,Mcre = 
+Text-Based,Vci = 0
+Text-Based,Vci = 0
+Text-Based,Vci = 1
+Text-Based,Vci = 2ȹ
+Text-Based,Mcre = 
+Text-Based,Mcre = 
+Text-Based,Vcw = (0
+Text-Based,Vcw = (0
+Text-Based,Vcw = (3
+Text-Based,Vs = 0
+Text-Based,vc = 0
+Text-Based,Vs = 0
+Text-Based,vc = 1
+Text-Based,Vs = 3
+Text-Based,vc = 4ȹsȹ
+Text-Based,vc = (0
+Text-Based,vc = (0
+Text-Based,vc = (3
+Text-Based,vc = 0
+Text-Based,vc = 0
+Text-Based,Tth = 0
+Text-Based,Tth = 0
+Text-Based,Tth = 0
+Text-Based,Tth = 0
+Text-Based,Tth = ȹ
+Text-Based,Tth = ȹ
+Text-Based,Tth = ȹ
+Text-Based,Tth = 0
+Text-Based,Tth = 0
+Text-Based,Tth = ȹ
+Text-Based,Tth = 0
+Text-Based,Tth = 0
+Text-Based,Tcr = 0
+Text-Based,Tcr = ȹ
+Text-Based,Tcr = ȹ
+Text-Based,Tcr = ȹ
+Text-Based,Tth = ȹ
+Text-Based,Tth = ȹ
+Text-Based,Tcr = 4ȹ
+Text-Based,Tcr = 4ȹ
+Text-Based,Tcr = 4ȹ
+Text-Based,s = 380
+Text-Based,s = 300
+Text-Based,s = 38
+Text-Based,s = 30
+Text-Based,s = 15
+Text-Based,s = 12
+Text-Based,ld = 
+Text-Based,ld = 
+Text-Based,ld = 
+Text-Based,ld = 
+Text-Based,ld = 
+Text-Based,ld = 
+Text-Based,fps = fse + 70
+Text-Based,fps = fse + 700
+Text-Based,"fps = fse + 10,000"
+Text-Based,Vne = 1
+Text-Based,Vne = 1
+Text-Based,Vne = 1
+Text-Based,"(s)
+
+="
+Text-Based,"(a)
+
+="
+Text-Based,(0.80Ig) =
+Text-Based,(2 x 1.5hef) =
+Text-Based,"(6/1.5, 9/3) ="
+Text-Based,(5 + 9 + [1.5 x 4]) =
+Text-Based,(1.5ca1) =
+Text-Based,(1.5 x 5.33) =
+Text-Based,"(18.13.5.10.5c)
+
+="
+Text-Based,"(8.7.7)
+="
+Text-Based,"(8.7.7)
+="
+Text-Based,"(22.5.6.3.1b)
+
+="
+Text-Based,"(24.2.3.9a)
+
+="
+Text-Based,"(b)
+
+="
+Text-Based,"(a)
+
+="
+Text-Based,"(c)
+
+="
+Text-Based,"(b)
+
+="
+Text-Based,"(c)
+
+="
+Text-Based,max= maximum  restraint  force  that  can  be  transmitted 
+Text-Based,"max= maximum nominal axial tensile strength of member, "
+equation_182_9.png,~~
+equation_268_23.png,
+equation_430_13.png,gt +
+equation_505_3.png,>
+equation_268_37.png,
+equation_484_2.png,
+equation_134_6.png,~~
+equation_240_153.png,
+equation_240_147.png,
+equation_134_55.png,
+equation_479_2.png,—_
+equation_134_41.png,
+equation_246_102.png,Ge ens i
+equation_134_69.png,ae
+equation_240_36.png,
+equation_240_190.png,
+equation_435_100.png,aE
+equation_337_1.png,"eee
+x » a"
+equation_302_8.png,
+equation_240_184.png,
+equation_246_116.png,
+equation_240_22.png,
+equation_194_22.png,SS
+equation_223_36.png,
+equation_223_22.png,™~
+equation_194_36.png,a
+equation_423_5.png,{oy
+equation_324_17.png,
+equation_484_11.png,Bast ee oe ae re a re oe eee
+equation_280_10.png,
+equation_302_13.png,
+equation_408_17.png,— oe
+equation_244_46.png,
+equation_254_7.png,
+equation_484_39.png,4
+equation_240_219.png,
+equation_425_3.png,as
+equation_479_17.png,
+equation_425_32.png,a
+equation_198_36.png,
+equation_246_94.png,2h
+equation_240_225.png,
+equation_123_8.png,
+equation_484_112.png,a
+equation_484_106.png,K
+equation_425_26.png,7
+equation_246_80.png,a ie
+equation_198_22.png,"~~
+ma: - of"
+equation_240_231.png,
+equation_307_23.png,"—
+uu,"
+equation_626_4.png,
+equation_252_22.png,
+equation_252_1.png,
+equation_481_21.png,-
+equation_246_57.png,as
+equation_481_35.png,¥
+equation_246_43.png,joa ints fh jam hat teh aa nih mh i tn hah Jas lame hak a a an) a ants
+equation_432_16.png,>
+equation_503_5.png,me
+equation_435_23.png,
+equation_482_4.png,
+equation_435_37.png,
+equation_295_31.png,"-_. =
+a v4"
+equation_295_25.png,"—j,
+G-~,.."
+equation_245_12.png,Chin. |
+equation_250_3.png,
+equation_448_23.png,™
+equation_448_37.png,
+equation_295_19.png,<
+equation_295_18.png,","
+equation_448_36.png,
+equation_233_1.png,
+equation_448_22.png,_
+equation_250_2.png,
+equation_295_24.png,yoy
+equation_245_13.png,i fd i
+equation_295_30.png,
+equation_435_36.png,
+equation_482_5.png,
+equation_435_22.png,"i aor
+a |"
+equation_503_4.png,“
+equation_432_17.png,a
+equation_246_42.png,aa
+equation_481_34.png,
+equation_246_56.png,ae
+equation_481_20.png,
+equation_252_23.png,
+equation_307_22.png,"—
+Pr."
+equation_484_107.png,
+equation_240_230.png,
+equation_198_23.png,"a
+—- ="
+equation_246_81.png,ys
+equation_425_27.png,
+equation_240_224.png,
+equation_246_95.png,A)
+equation_198_37.png,
+equation_425_33.png,
+equation_484_113.png,a a
+equation_123_9.png,==
+equation_479_16.png,
+equation_240_218.png,
+equation_425_2.png,"ae
+ee"
+equation_244_47.png,
+equation_254_6.png,
+equation_484_38.png,ry
+equation_302_12.png,"cee TEREEREEEES
+Baad a
+ibe: pitch | ahd"
+equation_280_11.png,
+equation_408_16.png,———_——
+equation_484_10.png,
+equation_486_1.png,
+equation_324_16.png,
+equation_223_23.png,
+equation_194_37.png,
+equation_423_4.png,-
+equation_194_23.png,S
+equation_223_37.png,<G
+equation_240_185.png,
+equation_302_9.png,~T
+equation_240_23.png,
+equation_246_117.png,
+equation_240_37.png,
+equation_134_68.png,"a
+~~ 4 — Sa
+a"
+equation_246_103.png,be
+equation_435_101.png,ey .
+equation_240_191.png,
+equation_134_40.png,ss
+equation_479_3.png,
+equation_134_54.png,eg
+equation_240_146.png,
+equation_484_3.png,TEEPE EP ETE
+equation_240_152.png,
+equation_134_7.png,"Pes
+———— ie"
+equation_268_36.png,
+equation_505_2.png,
+equation_182_8.png,~
+equation_430_12.png,
+equation_268_22.png,
+equation_240_178.png,
+equation_268_34.png,
+equation_268_20.png,
+equation_430_10.png,Pcie
+equation_240_144.png,
+equation_134_5.png,
+equation_240_150.png,
+equation_484_1.png,
+equation_479_1.png,.
+equation_246_129.png,ua
+equation_134_42.png,"a:
+ae"
+equation_134_56.png,a ———
+equation_246_115.png,r
+equation_240_21.png,
+equation_337_2.png,
+equation_240_187.png,
+equation_240_193.png,
+equation_435_103.png,
+equation_324_8.png,\
+equation_246_101.png,7
+equation_240_35.png,
+equation_423_6.png,_
+equation_194_35.png,“A
+equation_223_21.png,
+equation_324_28.png,"\
+\
+\"
+equation_223_35.png,
+equation_194_21.png,™~
+equation_324_14.png,
+equation_486_3.png,
+equation_302_38.png,
+equation_408_28.png,ae eee
+equation_281_8.png,|
+equation_484_12.png,
+equation_254_4.png,
+equation_244_45.png,
+equation_408_14.png,—————— |
+equation_280_13.png,
+equation_302_10.png,
+equation_425_19.png,Sy
+equation_479_14.png,
+equation_484_139.png,=
+equation_479_28.png,
+equation_246_83.png,+
+equation_198_21.png,"a a
+—"
+equation_425_25.png,a
+equation_240_232.png,
+equation_480_5.png,
+equation_484_105.png,
+equation_484_111.png,+
+equation_198_35.png,"es
+>
+—-."
+equation_246_97.png,iA
+equation_425_31.png,A
+equation_240_226.png,
+equation_246_68.png,my
+equation_307_20.png,
+equation_481_36.png,
+equation_246_40.png,a
+equation_252_35.png,
+equation_252_21.png,
+equation_252_2.png,
+equation_481_22.png,
+equation_246_54.png,re
+equation_432_15.png,"ee
+wm"
+equation_503_6.png,-—
+equation_482_7.png,
+equation_435_34.png,"ae
+=
+a a”"
+equation_435_20.png,"a
+= ie"
+equation_432_29.png,"—
+a"
+equation_245_11.png,ia;
+equation_295_26.png,"_ Son
+7 =.
+——"
+equation_295_32.png,ea
+equation_233_3.png,
+equation_448_34.png,f
+equation_448_20.png,QQ
+equation_245_39.png,
+equation_448_21.png,
+equation_250_1.png,
+equation_265_8.png,
+equation_245_38.png,
+equation_233_2.png,(—
+equation_448_35.png,(1 teem beminenfnntaoopan|oopanfamnfamnjase jomfoonjan{aoninme}amfamfamejammjacrjemioonjenterjenjempemtemfemfemfemfemspemin 6
+equation_245_10.png,oes [os fl cms ie
+equation_295_27.png,pn
+equation_435_21.png,"és
+—"
+equation_432_28.png,"Oo
+ees
+ae a"
+equation_435_35.png,"weno [
+_ - ."
+equation_482_6.png,
+equation_503_7.png,dd
+equation_432_14.png,SS. > —
+equation_246_55.png,"="""
+equation_481_23.png,oq
+equation_252_3.png,
+equation_252_20.png,
+equation_252_34.png,SF 4
+equation_246_41.png,q=
+equation_481_37.png,Li
+equation_307_21.png,"an
+i~a >"
+equation_246_69.png,ys
+equation_484_110.png,
+equation_240_227.png,
+equation_425_30.png,~~
+equation_246_96.png,ett
+equation_198_34.png,"Ee
+i
+aa Cn"
+equation_480_4.png,
+equation_240_233.png,
+equation_425_24.png,>
+equation_198_20.png,"2%
+= 5 Sn"
+equation_246_82.png,os
+equation_479_29.png,
+equation_484_104.png,
+equation_425_1.png,
+equation_479_15.png,
+equation_425_18.png,
+equation_484_138.png,|
+equation_408_15.png,a
+equation_302_11.png,
+equation_280_12.png,
+equation_254_5.png,
+equation_244_44.png,
+equation_281_9.png,
+equation_408_29.png,"= -
+SS eee"
+equation_484_13.png,
+equation_302_39.png,
+equation_486_2.png,PPS fs Pe ee ek ak as es ee
+equation_324_15.png,\
+equation_223_34.png,
+equation_194_20.png,x
+equation_324_29.png,
+equation_423_7.png,
+equation_194_34.png,"Hj
+QT"
+equation_223_20.png,"a,"
+equation_324_9.png,"’
+\
+|
+(
+\
+j
+y"
+equation_435_102.png,
+equation_240_192.png,
+equation_240_34.png,
+equation_246_100.png,pope
+equation_240_20.png,
+equation_246_114.png,
+equation_240_186.png,
+equation_337_3.png,
+equation_134_57.png,
+equation_134_43.png,"2 Aas
+~~. iS"
+equation_246_128.png,iu-
+equation_240_151.png,
+equation_134_4.png,
+equation_240_145.png,
+equation_430_11.png,"ae
+ets:
+reeled"
+equation_268_21.png,
+equation_134_80.png,
+equation_268_35.png,
+equation_505_1.png,q.
+equation_240_179.png,
+equation_240_141.png,
+equation_484_4.png,PEP EP EET ET
+equation_240_155.png,
+equation_268_19.png,
+equation_268_31.png,
+equation_505_5.png,"i,
+ima:"
+equation_240_169.png,
+equation_268_25.png,
+equation_430_15.png,eng.
+equation_337_7.png,
+equation_240_182.png,
+equation_240_24.png,
+equation_246_110.png,pis
+equation_245_9.png,ee a
+equation_240_30.png,
+equation_246_104.png,4
+equation_240_196.png,
+equation_479_4.png,
+equation_134_47.png,
+equation_240_18.png,
+equation_134_53.png,——
+equation_246_138.png,r
+equation_223_18.png,
+equation_194_18.png,"<x
+~S"
+equation_324_11.png,
+equation_223_24.png,
+equation_194_30.png,Pe
+equation_324_39.png,
+equation_423_3.png,—
+equation_430_9.png,"ou,"
+equation_194_24.png,at
+equation_223_30.png,
+equation_244_40.png,
+equation_254_1.png,
+equation_280_16.png,
+equation_302_15.png,=
+equation_408_11.png,- Se
+equation_408_39.png,——
+equation_302_29.png,"adit: SPEER
+eid: Eee"
+equation_484_17.png,
+equation_484_100.png,">
+z"
+equation_240_237.png,
+equation_246_86.png,[te haa fal Bok Te
+equation_198_24.png,
+equation_425_20.png,=
+equation_240_223.png,
+equation_198_30.png,"ah
+a
+oa
+
+E
+, a"
+equation_246_92.png,i
+equation_425_34.png,
+equation_484_114.png,
+equation_198_18.png,pan ol
+equation_479_11.png,
+equation_484_128.png,|
+equation_425_5.png,—
+equation_481_33.png,q
+equation_246_45.png,TE aaa pam pmneen proepae ponegrenyrney amyrony em peoapen poy
+equation_252_30.png,
+equation_252_24.png,
+equation_307_19.png,i
+equation_252_7.png,
+equation_481_27.png,
+equation_246_51.png,a
+equation_626_2.png,"«@)
+\-y"
+equation_307_31.png,"~~ 2
+za whe"
+equation_246_79.png,a ioe
+equation_448_9.png,riser
+equation_307_25.png,"—
+="
+equation_252_18.png,
+equation_482_2.png,
+equation_435_31.png,"e re
+>"
+equation_432_38.png,"beg
+SS"
+equation_435_25.png,
+equation_510_9.png,ee
+equation_432_10.png,= -
+equation_503_3.png,y
+equation_435_19.png,"a
+“Sh"
+equation_448_31.png,
+equation_245_28.png,Lf
+equation_233_6.png,
+equation_250_5.png,
+equation_448_25.png,
+equation_295_23.png,ae ~%
+equation_245_14.png,
+equation_448_19.png,
+equation_448_18.png,>
+equation_295_22.png,"=""
+P—"
+equation_245_15.png,
+equation_448_24.png,>.
+equation_250_4.png,
+equation_448_30.png,
+equation_233_7.png,
+equation_245_29.png,Lf
+equation_503_2.png,ys
+equation_432_11.png,
+equation_435_18.png,gin re
+equation_510_8.png,>
+equation_435_24.png,
+equation_435_30.png,"oS
+
+“—
+
+= ion
+.
+
+; =i"
+equation_482_3.png,
+equation_432_39.png,SS
+equation_252_19.png,
+equation_448_8.png,
+equation_307_24.png,
+equation_626_3.png,
+equation_246_78.png,Pt
+equation_307_30.png,> os
+equation_246_50.png,con
+equation_481_26.png,
+equation_252_6.png,
+equation_307_18.png,.
+equation_252_25.png,
+equation_252_31.png,
+equation_246_44.png,
+equation_481_32.png,r
+equation_425_4.png,"———,
+Eataianere"
+equation_484_129.png,+s
+equation_479_10.png,
+equation_198_19.png,a
+equation_425_35.png,ery
+equation_246_93.png,iz
+equation_198_31.png,ao
+equation_240_222.png,
+equation_484_115.png,4
+equation_484_101.png,
+equation_480_1.png,
+equation_425_21.png,"<=
+=e"
+equation_198_25.png,
+equation_246_87.png,
+equation_240_236.png,
+equation_484_16.png,
+equation_302_28.png,"Hee PPE:
+TEAR CREE"
+equation_408_38.png,————— _
+equation_302_14.png,"EEEELETEEE TEED
+TEE ET"
+equation_280_17.png,
+equation_408_10.png,aa
+equation_244_41.png,ret
+equation_430_8.png,=
+equation_194_25.png,
+equation_223_31.png,< N
+equation_324_38.png,
+equation_223_25.png,wa
+equation_194_31.png,yg
+equation_423_2.png,2
+equation_324_10.png,
+equation_194_19.png,"-
+>"
+equation_223_19.png,
+equation_246_139.png,
+equation_134_52.png,ee
+equation_240_19.png,
+equation_134_46.png,"= pen Sie
+~ 2a
+<a:"
+equation_479_5.png,
+equation_246_105.png,iz
+equation_240_31.png,
+equation_270_1.png,
+equation_245_8.png,"ms fk Ss om ‘mie fh To, th me! a‘ te Coc: ee en fk ol Cats a [ns ad Sl ek “aes a"
+equation_240_197.png,
+equation_240_183.png,
+equation_337_6.png,"an
+~"
+equation_246_111.png,AR ne ie oe ee ee ne ee ee
+equation_240_25.png,
+equation_430_14.png,ee
+equation_268_24.png,
+equation_240_168.png,
+equation_505_4.png,+—
+equation_268_30.png,
+equation_484_5.png,
+equation_268_18.png,
+equation_240_154.png,
+equation_134_1.png,"——
+. <—"
+equation_240_140.png,
+equation_134_3.png,ws
+equation_240_156.png,
+equation_484_7.png,
+equation_240_142.png,
+equation_268_26.png,
+equation_430_16.png,ones
+equation_432_8.png,——
+equation_268_32.png,
+equation_505_6.png,-
+equation_240_195.png,
+equation_270_3.png,"fy
+LS"
+equation_240_33.png,
+equation_246_107.png,me ks
+equation_134_78.png,
+equation_240_27.png,
+equation_246_113.png,i
+equation_337_4.png,“a
+equation_240_181.png,
+equation_134_50.png,
+equation_479_7.png,
+equation_134_44.png,"a
+-"
+equation_324_12.png,"\
+\"
+equation_486_5.png,J
+equation_223_33.png,SJ Ut
+equation_194_27.png,y
+equation_194_33.png,_
+equation_223_27.png,hw
+equation_408_12.png,aged =
+equation_280_15.png,
+equation_484_28.png,}
+equation_302_16.png,
+equation_254_2.png,
+equation_244_43.png,
+equation_280_29.png,
+equation_484_14.png,a
+equation_484_117.png,
+equation_493_9.png,Pe igs Oe se oe PE ie i is ee ie
+equation_240_220.png,
+equation_425_37.png,
+equation_198_33.png,"—
+Qa"
+equation_246_91.png,rs
+equation_240_234.png,
+equation_425_23.png,"Se
+a a"
+equation_246_85.png,Fete yond Posh ae pres te Poery prone prong ae penny preny me prong me pereny —plowey mr Yee em Urryy ee Yenety erat me yrmegey poms
+equation_198_27.png,a
+equation_480_3.png,
+equation_484_103.png,"=
+rs"
+equation_425_6.png,——
+equation_240_208.png,
+equation_479_12.png,
+equation_252_27.png,
+equation_252_4.png,
+equation_481_24.png,Fe
+equation_246_52.png,q=
+equation_481_30.png,3a
+equation_246_46.png,"="""
+equation_252_33.png,SF 4
+equation_481_18.png,
+equation_307_26.png,"a.
+7 “~~.
+— =|"
+equation_307_32.png,re
+equation_626_1.png,
+equation_435_26.png,"ea
+-"
+equation_482_1.png,
+equation_435_32.png,">s
+a .-S"
+equation_432_13.png,en
+equation_250_6.png,
+equation_448_26.png,
+equation_233_5.png,
+equation_448_32.png,|e am se ae oe amas aoe famed ene jamm( aos jane (acm anne jaw ce bona | ace me ace we wee james ame pom eoe lent! eae jameeaejamieasjme(aceye fj |
+equation_245_17.png,
+equation_295_20.png,"~
+>"
+equation_245_16.png,
+equation_295_21.png,an =
+equation_233_4.png,
+equation_448_33.png,
+equation_448_27.png,
+equation_503_1.png,i
+equation_432_12.png,——S=
+equation_435_33.png,"— ———
+a
+@. oa"
+equation_435_27.png,"ime.
+—~
+ee Ss"
+equation_307_27.png,"or
+Cet"
+equation_481_19.png,+
+equation_252_32.png,"@
+a"
+equation_246_47.png,re
+equation_481_31.png,
+equation_246_53.png,7
+equation_481_25.png,E |
+equation_252_5.png,a
+equation_252_26.png,
+equation_479_13.png,
+equation_240_209.png,
+equation_425_7.png,a
+equation_480_2.png,
+equation_198_26.png,
+equation_246_84.png,as
+equation_425_22.png,i ee
+equation_240_235.png,
+equation_484_102.png,+
+equation_484_116.png,
+equation_246_90.png,A
+equation_198_32.png,"——
+——<—~"
+equation_425_36.png,y
+equation_240_221.png,
+equation_493_8.png,
+equation_484_15.png,
+equation_280_28.png,
+equation_254_3.png,
+equation_244_42.png,dit
+equation_408_13.png,—__
+equation_302_17.png,
+equation_484_29.png,4
+equation_280_14.png,
+equation_423_1.png,SF
+equation_194_32.png,"™
+SS"
+equation_223_26.png,
+equation_223_32.png,» *
+equation_194_26.png,id
+equation_486_4.png,
+equation_324_13.png,
+equation_134_45.png,= — -a
+equation_479_6.png,
+equation_134_51.png,
+equation_246_112.png,
+equation_240_26.png,
+equation_134_79.png,
+equation_240_180.png,
+equation_337_5.png,at ste
+equation_435_104.png,Tv
+equation_240_194.png,
+equation_246_106.png,
+equation_240_32.png,
+equation_270_2.png,"fy
+LS"
+equation_505_7.png,"a a a
+
+Ba i} oe
+1 mid eee t
+ner eal +
+£ Ba +"
+equation_268_33.png,
+equation_432_9.png,-—_—— =
+equation_430_17.png,2.
+equation_268_27.png,
+equation_240_143.png,
+equation_240_157.png,
+equation_134_2.png,Ph es ee
+equation_484_6.png,
+equation_268_40.png,:
+equation_388_4.png,
+equation_435_8.png,-—:
+equation_423_18.png,
+equation_240_118.png,
+equation_268_54.png,
+equation_240_130.png,
+equation_133_3.png,
+equation_240_96.png,
+equation_240_82.png,
+equation_240_124.png,
+equation_268_68.png,
+equation_395_1.png,TTT:
+equation_198_9.png,"ee
+a"
+equation_134_36.png,"7
+>)"
+equation_240_69.png,
+equation_246_149.png,
+equation_134_22.png,
+equation_277_3.png,|
+equation_246_161.png,Te
+equation_240_55.png,
+equation_246_175.png,f
+equation_240_41.png,
+equation_133_17.png,-t
+equation_223_55.png,
+equation_194_41.png,
+equation_324_48.png,
+equation_230_29.png,"ij
+!
+1
+ij"
+equation_337_34.png,"ee
+ary
+ia."
+equation_337_20.png,
+equation_194_4.png,
+equation_194_55.png,g
+equation_223_41.png,
+equation_432_123.png,"=a mm,
+ee aoa"
+equation_223_69.png,os
+equation_481_5.png,
+equation_268_4.png,
+equation_230_15.png,
+equation_240_326.png,
+equation_484_99.png,|
+equation_152_2.png,i
+equation_432_137.png,
+equation_194_69.png,_—
+equation_324_60.png,
+equation_194_82.png,
+equation_223_96.png,
+equation_408_48.png,aS
+equation_484_72.png,
+equation_295_4.png,ae
+equation_302_58.png,
+equation_484_66.png,
+equation_223_82.png,
+equation_194_96.png,a
+equation_244_19.png,A A ee A
+equation_216_39.png,
+equation_230_1.png,
+equation_178_16.png,‘ai
+equation_244_31.png,||
+equation_216_11.png,
+equation_169_4.png,
+equation_302_70.png,
+equation_123_12.png,/~
+equation_240_8.png,
+equation_302_64.png,
+equation_216_2.png,
+equation_244_25.png,
+equation_198_69.png,
+equation_152_12.png,ee
+equation_198_55.png,
+equation_240_246.png,
+equation_198_41.png,~ Saget
+equation_425_45.png,a
+equation_240_252.png,
+equation_487_3.png,'
+equation_223_121.png,w=
+equation_492_16.png,
+equation_280_8.png,
+equation_510_15.png,“S
+equation_481_42.png,
+equation_246_34.png,1 ESO Raa peer ppen pron enyronay am pny
+equation_240_285.png,
+equation_223_109.png,
+equation_246_20.png,
+equation_240_291.png,
+equation_246_203.png,
+equation_420_4.png,
+equation_277_14.png,
+equation_432_75.png,"ro’
+a
+."
+equation_325_20.png,=i
+equation_432_61.png,"‘
+i.
+S64 -"
+equation_435_68.png,—— el
+equation_277_28.png,
+equation_435_40.png,= aie
+equation_428_11.png,a
+equation_432_49.png,
+equation_435_54.png,aa
+equation_408_8.png,nee eae
+equation_482_13.png,
+equation_478_1.png,Cc
+equation_448_40.png,
+equation_435_83.png,. —
+equation_452_18.png,FF
+equation_245_59.png,
+equation_435_97.png,> me
+equation_325_8.png,",
+Ae"
+equation_234_5.png,
+equation_234_4.png,"ce
+= feo
+eg
+Sige’ >"
+equation_325_9.png,"zr,"
+equation_435_96.png,~~
+equation_435_82.png,"—. bat
+> io
+2"
+equation_448_41.png,
+equation_245_58.png,(
+equation_408_9.png,ee
+equation_482_12.png,fo
+equation_435_55.png,ae.
+equation_435_41.png,- 2
+equation_277_29.png,
+equation_432_48.png,"7 -
+""5
+re"
+equation_428_10.png,——
+equation_432_60.png,"P,.5,"
+equation_435_69.png,= 0
+equation_277_15.png,
+equation_504_1.png,": . Staggered
+: 3 a hook
+
+: = s cE location as
+6 Z| se required for
+a asl ~ successive
+
+( { Lo ) circular ties
+. FE NX Circular tie
+
+Lap 2 6 in."
+equation_420_5.png,a ake ee ie ee ea ee eee
+equation_325_21.png,"ew >
+4
+_ aaa"
+equation_432_74.png,"™
+ae."
+equation_240_290.png,
+equation_246_21.png,
+equation_223_108.png,
+equation_246_202.png,
+equation_240_284.png,
+equation_246_35.png,"="""
+equation_510_14.png,">
+~S"
+equation_280_9.png,
+equation_223_120.png,~
+equation_240_253.png,
+equation_425_44.png,Uy
+equation_198_40.png,—.
+equation_487_2.png,
+equation_240_247.png,
+equation_198_54.png,
+equation_152_13.png,
+equation_198_68.png,
+equation_302_65.png,
+equation_244_24.png,
+equation_216_3.png,
+equation_216_10.png,"—
+Se eer
+—
+—"
+equation_244_30.png,
+equation_178_17.png,>
+equation_240_9.png,
+equation_302_71.png,
+equation_123_13.png,~~!
+equation_484_67.png,
+equation_302_59.png,
+equation_295_5.png,"Zr
++"
+equation_216_38.png,
+equation_244_18.png,
+equation_223_83.png,
+equation_194_97.png,
+equation_408_49.png,Ss
+equation_194_83.png,a
+equation_223_97.png,
+equation_484_73.png,">
+Fs"
+equation_152_3.png,a
+equation_484_98.png,+
+equation_240_327.png,
+equation_324_61.png,
+equation_194_68.png,
+equation_432_136.png,——_—~
+equation_223_68.png,i
+equation_432_122.png,
+equation_230_14.png,
+equation_268_5.png,
+equation_481_4.png,
+equation_194_5.png,
+equation_337_21.png,
+equation_194_54.png,
+equation_223_40.png,
+equation_324_49.png,
+equation_223_54.png,
+equation_194_40.png,
+equation_337_35.png,_
+equation_230_28.png,>
+equation_240_40.png,
+equation_246_174.png,%
+equation_133_16.png,"TS
+a"
+equation_277_2.png,
+equation_240_54.png,
+equation_246_160.png,Ge iS |
+equation_134_23.png,
+equation_246_148.png,my
+equation_198_8.png,"a 2
+yi eae"
+equation_240_68.png,
+equation_134_37.png,“aie
+equation_240_83.png,
+equation_240_125.png,
+equation_240_131.png,
+equation_240_97.png,
+equation_133_2.png,
+equation_268_55.png,
+equation_240_119.png,
+equation_388_5.png,re is ve ee Ss Ye ee ee ee
+equation_268_41.png,
+equation_435_9.png,"et
+ae"
+equation_268_57.png,7
+equation_246_189.png,_
+equation_388_7.png,
+equation_268_43.png,
+equation_240_127.png,
+equation_240_81.png,
+equation_240_95.png,
+equation_240_133.png,
+equation_134_21.png,"= ==
+ee"
+equation_134_35.png,
+equation_395_2.png,CCT
+equation_133_14.png,"—  - ae
+a be"
+equation_246_176.png,i
+equation_240_42.png,
+equation_246_162.png,+t
+equation_240_56.png,
+equation_432_108.png,"ae
+| hi
+oa"
+equation_223_42.png,"~~,"
+equation_194_56.png,SN
+equation_337_23.png,"wee
+“7"
+equation_194_7.png,=
+equation_240_319.png,
+equation_472_9.png,oa
+equation_194_42.png,ee
+equation_223_56.png,™
+equation_432_134.png,"—
+—————"
+equation_240_325.png,
+equation_152_1.png,_
+equation_481_6.png,
+equation_230_16.png,
+equation_268_7.png,"ry
++"
+equation_432_120.png,
+equation_194_95.png,
+equation_223_81.png,qq
+equation_295_7.png,"—"" oo
+-@@' 7
+‘ _"
+equation_484_65.png,
+equation_484_71.png,
+equation_223_95.png,-
+equation_194_81.png,
+equation_178_29.png,<
+equation_216_1.png,
+equation_244_26.png,
+equation_223_8.png,a
+equation_484_59.png,
+equation_302_67.png,
+equation_123_11.png,"ay Qs
+a >,"
+equation_302_73.png,
+equation_230_2.png,
+equation_178_15.png,og Ue
+equation_244_32.png,
+equation_216_12.png,"errr
+a
+errr
+a"
+equation_152_11.png,oe
+equation_240_279.png,
+equation_425_46.png,yf &
+equation_198_42.png,"=.
+es
+~~ A all"
+equation_240_251.png,
+equation_198_56.png,
+equation_240_245.png,
+equation_492_15.png,
+equation_510_16.png,<<
+equation_246_200.png,
+equation_246_23.png,
+equation_240_292.png,
+equation_481_41.png,
+equation_246_37.png,a oe
+equation_240_286.png,
+equation_432_62.png,"-
+_— ="
+equation_432_76.png,"Se
+.-"
+equation_325_23.png,
+equation_420_7.png,
+equation_277_17.png,
+equation_435_57.png,
+equation_428_12.png,
+equation_435_43.png,"ional
+-e~
+, ="
+equation_482_10.png,
+equation_478_2.png,Cc
+equation_435_94.png,"i ,
+~ J A"
+equation_234_6.png,
+equation_432_89.png,"a
+>
+
+7
+
+Po"
+equation_435_80.png,= oa 4
+equation_432_88.png,"= =
+Ss
+ae
+io
+: i."
+equation_435_81.png,
+equation_448_42.png,
+equation_234_7.png,
+equation_435_95.png,"nail
+p=
+: le"
+equation_478_3.png,
+equation_482_11.png,
+equation_428_13.png,~~
+equation_435_42.png,"a
+ies
+~ ff At"
+equation_435_56.png,
+equation_325_22.png,
+equation_432_77.png,sin
+equation_277_16.png,
+equation_420_6.png,ee ee ie ee
+equation_432_63.png,"ee
+~"
+equation_240_287.png,
+equation_246_36.png,re
+equation_481_40.png,
+equation_246_201.png,
+equation_240_293.png,
+equation_246_22.png,
+equation_510_17.png,_
+equation_492_14.png,
+equation_240_244.png,
+equation_198_57.png,
+equation_487_1.png,
+equation_240_250.png,
+equation_198_43.png,"——
+z= so
+aad Se."
+equation_240_278.png,
+equation_152_10.png,"Ry
+|"
+equation_123_10.png,
+equation_302_72.png,
+equation_216_13.png,
+equation_244_33.png,
+equation_178_14.png,Nal
+equation_230_3.png,
+equation_223_9.png,ae
+equation_244_27.png,
+equation_302_66.png,|
+equation_484_58.png,
+equation_484_70.png,
+equation_178_28.png,
+equation_223_94.png,
+equation_194_80.png,at
+equation_194_94.png,~S
+equation_223_80.png,—
+equation_484_64.png,ae ee eee
+equation_295_6.png,
+equation_268_6.png,
+equation_230_17.png,
+equation_481_7.png,
+equation_432_121.png,—————
+equation_324_62.png,
+equation_432_135.png,a
+equation_240_324.png,
+equation_337_36.png,
+equation_472_8.png,\
+equation_194_43.png,ry
+equation_223_57.png,
+equation_223_43.png,wa
+equation_194_57.png,">
+Qo"
+equation_432_109.png,"rs
+:"
+equation_240_318.png,
+equation_194_6.png,2
+equation_337_22.png,Ay
+equation_240_57.png,
+equation_246_163.png,m4
+equation_277_1.png,|
+equation_133_15.png,
+equation_240_43.png,
+equation_246_177.png,n'4
+equation_134_34.png,"=
+, SS
+- =
+en ee, ox"
+equation_395_3.png,TTT
+equation_134_20.png,
+equation_240_94.png,
+equation_133_1.png,a ee
+equation_240_132.png,
+equation_240_126.png,
+equation_240_80.png,
+equation_268_42.png,
+equation_388_6.png,Se as ae as Se el ae ask ee ane a ea ee
+equation_268_56.png,
+equation_246_188.png,
+equation_240_84.png,
+equation_240_122.png,
+equation_240_136.png,
+equation_133_5.png,
+equation_240_90.png,
+equation_268_52.png,
+equation_388_2.png,Reh se Mo ye ye Se Bae x
+equation_268_46.png,
+equation_246_198.png,
+equation_134_18.png,=
+equation_240_47.png,
+equation_246_173.png,f
+equation_133_11.png,
+equation_277_5.png,
+equation_240_53.png,
+equation_246_167.png,ai
+equation_134_24.png,MES
+equation_134_30.png,"ee
+un poe"
+equation_492_9.png,
+equation_240_320.png,
+equation_152_4.png,
+equation_432_131.png,
+equation_432_125.png,
+equation_481_3.png,
+equation_230_13.png,
+equation_268_2.png,
+equation_337_26.png,"Se
+as"
+equation_194_2.png,Lip
+equation_194_53.png,
+equation_223_47.png,~~
+equation_432_119.png,"¥
+ —_."
+equation_223_53.png,Ss
+equation_194_47.png,>
+equation_240_308.png,
+equation_337_32.png,"one
+—"
+equation_302_62.png,7: |
+equation_216_4.png,
+equation_307_9.png,s. ‘
+equation_244_23.png,
+equation_178_10.png,
+equation_230_7.png,
+equation_244_37.png,
+equation_216_17.png,
+equation_169_2.png,
+equation_302_76.png,|
+equation_123_14.png,
+equation_484_48.png,+
+equation_295_2.png,"ied
+. a ol"
+equation_484_60.png,
+equation_223_84.png,
+equation_194_90.png,">
+“—— -"
+equation_178_38.png,a.
+equation_194_84.png,
+equation_223_90.png,a
+equation_484_74.png,+
+equation_240_254.png,
+equation_425_43.png,
+equation_198_47.png,"=
+—"
+equation_152_28.png,—
+equation_240_240.png,
+equation_198_53.png,ee
+equation_240_268.png,
+equation_152_14.png,
+equation_452_9.png,rT
+equation_240_297.png,
+equation_246_26.png,
+equation_246_205.png,
+equation_246_8.png,
+equation_240_283.png,
+equation_246_32.png,
+equation_492_10.png,
+equation_510_13.png,NY
+equation_435_52.png,a
+equation_435_46.png,"- =
+Re"
+equation_428_17.png,
+equation_432_67.png,‘hag
+equation_420_2.png,Bee Ee nena PEPE
+equation_277_12.png,
+equation_432_73.png,"—
+<"
+equation_325_26.png,"es,"
+equation_432_98.png,"ve
+er"
+equation_435_91.png,
+equation_234_3.png,Zags
+equation_435_85.png,"ie
+a"
+equation_482_15.png,"ri
+}"
+equation_478_7.png,
+equation_478_6.png,
+equation_482_14.png,
+equation_435_84.png,"a
+eS"
+equation_432_99.png,"gts
+fF"
+equation_234_2.png,apes (S47) Rapes LSian) Rapes Sea) Rapes &
+equation_435_90.png,"> Ss
+—S"
+equation_277_13.png,z
+equation_420_3.png,Makerere enanewe
+equation_325_27.png,
+equation_432_72.png,"a,
+ba
+ST"
+equation_432_66.png,—
+equation_435_47.png,
+equation_428_16.png,~
+equation_435_53.png,
+equation_510_12.png,om
+equation_492_11.png,
+equation_246_33.png,pad
+equation_240_282.png,
+equation_246_27.png,
+equation_240_296.png,
+equation_246_9.png,
+equation_246_204.png,.
+equation_452_8.png,
+equation_240_269.png,
+equation_152_15.png,
+equation_198_52.png,So
+equation_240_241.png,
+equation_198_46.png,"i a
+a_i"
+equation_425_42.png,"=f,"
+equation_240_255.png,
+equation_152_29.png,—
+equation_487_4.png,
+equation_194_85.png,
+equation_223_91.png,—
+equation_484_75.png,
+equation_484_61.png,
+equation_295_3.png,~ ae
+equation_178_39.png,
+equation_223_85.png,
+equation_194_91.png,(4
+equation_216_16.png,
+equation_244_36.png,
+equation_230_6.png,
+equation_178_11.png,|
+equation_484_49.png,
+equation_302_77.png,"é
+|"
+equation_123_15.png,\/
+equation_169_3.png,ti
+equation_302_63.png,
+equation_244_22.png,
+equation_307_8.png,=
+equation_216_5.png,
+equation_223_52.png,™~
+equation_194_46.png,oo
+equation_432_118.png,"‘ew
+a
+pe:"
+equation_337_33.png,a7
+equation_240_309.png,
+equation_194_3.png,4.
+equation_337_27.png,NTs
+equation_194_52.png,|
+equation_223_46.png,"| :
+we"
+equation_432_124.png,——
+equation_268_3.png,"e@
+a"
+equation_230_12.png,-
+equation_481_2.png,
+equation_152_5.png,—
+equation_240_321.png,
+equation_492_8.png,TEPER EP EP ET | ‘we oe
+equation_432_130.png,"oa
+ia"
+equation_134_31.png,"a
+
+fa
+a
+
+— 22"
+equation_134_25.png,
+equation_277_4.png,
+equation_246_166.png,ee
+equation_240_52.png,
+equation_246_172.png,
+equation_240_46.png,
+equation_134_19.png,"ee
+<i"
+equation_133_10.png,"a, a"
+equation_268_47.png,
+equation_388_3.png,“fa ket - oa eet Skewes
+equation_246_199.png,|
+equation_268_53.png,
+equation_240_137.png,
+equation_240_91.png,
+equation_133_4.png,
+equation_240_85.png,
+equation_240_123.png,
+equation_133_6.png,"SS
+gg ee"
+equation_240_93.png,
+equation_240_135.png,
+equation_240_121.png,
+equation_240_87.png,
+equation_240_109.png,
+equation_268_45.png,
+equation_388_1.png,
+equation_268_51.png,>
+equation_240_50.png,
+equation_246_164.png,is
+equation_277_6.png,
+equation_178_9.png,Se:
+equation_133_12.png,
+equation_340_8.png,- NS
+equation_305_8.png,|
+equation_240_44.png,
+equation_246_170.png,WTF ee reefer gpg me prerger yong ep iorg = prey ms yrrtges Ponty my Yonge poueyrer prety we prong mr pinay emprrry may long wor yey Engram frome grin yrety ee prety = Goyer
+equation_428_8.png,=
+equation_134_33.png,
+equation_246_158.png,
+equation_134_27.png,"er a
+ee"
+equation_240_78.png,
+equation_484_88.png,
+equation_268_1.png,
+equation_230_10.png,oS as es ts
+equation_432_126.png,==
+equation_194_78.png,>
+equation_432_132.png,_———
+equation_223_78.png,","
+equation_240_323.png,
+equation_337_19.png,
+equation_152_7.png,Ry
+equation_337_31.png,">
+~
+pam a"
+equation_194_44.png,a
+equation_223_50.png,ws
+equation_324_59.png,
+equation_223_44.png,~
+equation_194_50.png,P
+equation_337_25.png,
+equation_194_1.png,
+equation_230_38.png,1 ttmetere en tnenamtoondomtonpamefomfam{ aan jan|avn}amfaumfemicontamjaenpenjeerpemfasejemjavfemtammfemicwnpemewnpemie |
+equation_169_1.png,—~
+equation_123_17.png,f
+equation_302_75.png,e
+equation_178_13.png,~_!
+equation_230_4.png,
+equation_244_34.png,
+equation_216_14.png,
+equation_216_7.png,
+equation_244_20.png,POR STS TSE Sree Ee Ee eee ere ee Ne Nee OTE e ToL aT Seer See TOTO Ee UES E SH SET SLUTS HST e TSEC EON STS TUT OTeE eT UTeE er CreTere
+equation_302_61.png,
+equation_484_77.png,
+equation_302_49.png,
+equation_216_28.png,7
+equation_223_93.png,
+equation_194_87.png,y ™
+equation_194_93.png,
+equation_223_87.png,
+equation_295_1.png,
+equation_484_63.png,bo
+equation_240_243.png,
+equation_198_50.png,_
+equation_240_257.png,
+equation_198_44.png,*
+equation_425_40.png,H| ~
+equation_152_17.png,4 >
+equation_240_280.png,
+equation_246_31.png,iad aaa in
+equation_223_118.png,=
+equation_246_206.png,
+equation_240_294.png,
+equation_246_25.png,
+equation_492_13.png,
+equation_510_10.png,"Ss a
+ee"
+equation_246_19.png,
+equation_428_14.png,‘a
+equation_325_19.png,©
+equation_435_45.png,> m9
+equation_435_51.png,
+equation_432_58.png,» Fs
+equation_432_70.png,
+equation_325_25.png,"a.
+- aac"
+equation_420_1.png,
+equation_277_11.png,E
+equation_435_79.png,--< e
+equation_432_64.png,"y +
+a 4
+a -"
+equation_435_86.png,"—
+= =
+="
+equation_435_92.png,
+equation_244_9.png,:
+equation_245_48.png,
+equation_245_60.png,
+equation_482_16.png,+
+equation_478_4.png,
+equation_478_5.png,
+equation_482_17.png,
+equation_245_61.png,
+equation_234_1.png,esrey ft-R Sees it
+equation_435_93.png,"~
+as
+3"
+equation_244_8.png,=
+equation_245_49.png,4
+equation_435_87.png,"ae
+-_
+—"
+equation_432_65.png,"“.
+J"
+equation_325_24.png,
+equation_432_71.png,a
+equation_435_78.png,". =
+4"
+equation_277_10.png,
+equation_435_50.png,
+equation_432_59.png,"Pa,"
+equation_325_18.png,", ae ery
+<"
+equation_428_15.png,il
+equation_435_44.png,—_
+equation_510_11.png,"S See ee ee
+ies Pics
+Oe ee"
+equation_492_12.png,en eR ek ena eenene
+equation_246_18.png,
+equation_246_24.png,
+equation_240_295.png,
+equation_223_119.png,SS
+equation_246_30.png,
+equation_240_281.png,
+equation_152_16.png,
+equation_425_41.png,eae
+equation_198_45.png,>
+equation_240_256.png,
+equation_198_51.png,‘ at
+equation_240_242.png,
+equation_194_92.png,
+equation_223_86.png,
+equation_484_62.png,PP ee ee ee ee ee ee
+equation_302_48.png,"HY BER AEP
+ri i in"
+equation_484_76.png,a
+equation_223_92.png,~~
+equation_194_86.png,we
+equation_216_29.png,a
+equation_244_21.png,i FETST UNEVEN ST aTe TOTO TET Oe TEE Tore reTerenereE
+equation_216_6.png,
+equation_302_60.png,
+equation_123_16.png,
+equation_302_74.png,.
+equation_216_15.png,
+equation_244_35.png,||
+equation_230_5.png,
+equation_178_12.png,.
+equation_223_45.png,~~
+equation_194_51.png,~~
+equation_324_58.png,
+equation_230_39.png,
+equation_337_24.png,aie
+equation_337_30.png,
+equation_194_45.png,SN
+equation_223_51.png,>
+equation_223_79.png,~~
+equation_432_133.png,
+equation_152_6.png,
+equation_337_18.png,sug
+equation_240_322.png,
+equation_230_11.png,Pet es
+equation_481_1.png,
+equation_484_89.png,"4
+rs"
+equation_194_79.png,>
+equation_432_127.png,pees
+equation_240_79.png,
+equation_134_26.png,— -
+equation_246_159.png,
+equation_134_32.png,erin > guts
+equation_428_9.png,"a
+<i"
+equation_340_9.png,PN
+equation_178_8.png,|
+equation_133_13.png,
+equation_246_171.png,"Gis i,"
+equation_240_45.png,
+equation_305_9.png,“
+equation_246_165.png,Ik
+equation_240_51.png,
+equation_277_7.png,
+equation_268_50.png,
+equation_268_44.png,
+equation_240_108.png,
+equation_240_120.png,
+equation_240_86.png,
+equation_240_92.png,
+equation_133_7.png,
+equation_240_134.png,
+equation_268_61.png,
+equation_240_139.png,
+equation_478_15.png,
+equation_240_111.png,
+equation_246_183.png,
+equation_423_11.png,—
+equation_435_1.png,5
+equation_246_197.png,
+equation_240_105.png,
+equation_268_49.png,
+equation_340_4.png,>
+equation_178_5.png,N
+equation_305_4.png,-
+equation_134_17.png,
+equation_240_48.png,
+equation_246_168.png,if
+equation_246_140.png,ys
+equation_240_74.png,
+equation_246_154.png,i
+equation_240_60.png,
+equation_254_15.png,
+equation_428_4.png,=
+equation_505_15.png,"jy +
+ai 3
+tata imi
+oI
++]"
+equation_194_60.png,
+equation_223_74.png,Dw
+equation_484_90.png,"+
++"
+equation_337_15.png,", ie
+‘"
+equation_492_6.png,
+equation_484_84.png,
+equation_223_60.png,>
+equation_194_74.png,"mae A
+“se"
+equation_432_102.png,"7
+ov:"
+equation_223_48.png,™
+equation_324_55.png,
+equation_240_313.png,
+equation_230_34.png,
+equation_337_29.png,
+equation_472_3.png,-
+equation_240_307.png,
+equation_230_20.png,Qe
+equation_324_41.png,
+equation_432_116.png,"=
+e
+4
+7"
+equation_194_48.png,BA
+equation_223_2.png,a
+equation_307_6.png,ie
+equation_484_53.png,
+equation_240_1.png,
+equation_484_47.png,s
+equation_302_79.png,
+equation_216_18.png,
+equation_230_8.png,
+equation_244_38.png,
+equation_216_30.png,"_.|
+—"
+equation_178_37.png,wa“
+equation_408_55.png,— iS
+equation_244_10.png,
+equation_302_51.png,"Srrnegeareer
+peti: HP :"
+equation_302_45.png,
+equation_178_23.png,"oa
+‘a
+a"
+equation_408_41.png,———
+equation_216_24.png,
+equation_152_27.png,
+equation_182_10.png,
+equation_198_48.png,- —E
+equation_240_267.png,
+equation_198_60.png,aoe
+equation_240_273.png,
+equation_484_144.png,
+equation_452_6.png,reerr
+equation_246_7.png,
+equation_510_20.png,~
+equation_246_29.png,
+equation_240_298.png,
+equation_223_100.png,
+equation_223_114.png,>
+equation_280_1.png,"@>
+, 4"
+equation_246_15.png,
+equation_277_35.png,
+equation_432_54.png,"4
+-"
+equation_432_40.png,"——_s-
+~ ae"
+equation_325_15.png,"et
+piety"
+equation_428_18.png,™
+equation_277_21.png,
+equation_435_49.png,ey .
+equation_435_61.png,: ae
+equation_432_68.png,"ay
+-"
+equation_428_24.png,H
+equation_435_75.png,
+equation_325_1.png,
+equation_432_97.png,"TT
+Py"
+equation_245_44.png,
+equation_244_5.png,TUTC!
+equation_245_50.png,
+equation_432_83.png,"7
+ais"
+equation_452_11.png,eT Tr
+equation_281_12.png,
+equation_478_8.png,"4
+:"
+equation_408_1.png,ce
+equation_478_9.png,
+equation_432_82.png,"}
+‘
+:
+:
+?"
+equation_245_51.png,
+equation_281_13.png,
+equation_452_10.png,Ht
+equation_245_45.png,
+equation_244_4.png,verer
+equation_432_96.png,at
+equation_325_28.png,bese
+equation_428_25.png,> Gh
+equation_435_74.png,"i are
+al"
+equation_435_60.png,ae
+equation_432_69.png,"~ Ss
+a3"
+equation_428_19.png,~S
+equation_325_14.png,
+equation_432_41.png,"————
+- —"
+equation_435_48.png,ee
+equation_277_20.png,
+equation_277_34.png,
+equation_432_55.png,|
+equation_246_14.png,
+equation_223_115.png,
+equation_510_21.png,| —
+equation_246_6.png,
+equation_223_101.png,
+equation_240_299.png,
+equation_246_28.png,
+equation_240_272.png,
+equation_198_61.png,"pas
+ean"
+equation_452_7.png,TTT TTT TTT TT TEPER ET TTT PTET ETE E TTT ET TPT Pt
+equation_240_266.png,
+equation_152_32.png,
+equation_152_26.png,y|
+equation_198_49.png,
+equation_182_11.png,oS
+equation_302_44.png,|
+equation_216_25.png,aoe
+equation_408_40.png,"a
+a"
+equation_178_22.png,—
+equation_244_11.png,3
+equation_408_54.png,————
+equation_178_36.png,
+equation_216_31.png,"=
+a"
+equation_302_50.png,"i |
+SEE & GER
+fle Fi"
+equation_302_78.png,ww
+equation_484_46.png,
+equation_244_39.png,
+equation_230_9.png,ee tk Ot |
+equation_216_19.png,
+equation_307_7.png,"—~ on
+7 eat’?
+ez"
+equation_223_3.png,oe
+equation_484_52.png,PP RPE EP EP ET
+equation_230_21.png,
+equation_240_306.png,
+equation_472_2.png,mat
+equation_194_49.png,
+equation_432_117.png,ee
+equation_324_40.png,
+equation_324_54.png,
+equation_223_49.png,~~
+equation_432_103.png,"‘.
+‘a"
+equation_337_28.png,
+equation_230_35.png,(| tee joe |e jam | om jener| eee jem {ace bown| see hom one beer! ane lamer see lm eat |me eee jmeanejaedane|me(eoe|mecacnmo{acejme|eceis | |
+equation_240_312.png,
+equation_484_85.png,
+equation_223_61.png,
+equation_194_75.png,_~
+equation_194_61.png,
+equation_223_75.png,:
+equation_492_7.png,
+equation_337_14.png,ie
+equation_484_91.png,+
+equation_505_14.png,=
+equation_428_5.png,
+equation_254_14.png,
+equation_240_61.png,
+equation_246_155.png,
+equation_198_1.png,"yy —
+a"
+equation_240_75.png,
+equation_246_141.png,a
+equation_246_169.png,ak
+equation_178_4.png,
+equation_340_5.png,"X“
+~~ eG"
+equation_240_49.png,
+equation_134_16.png,"Sane ai
+=="
+equation_305_5.png,Ne
+equation_246_196.png,
+equation_268_48.png,
+equation_240_104.png,
+equation_240_110.png,
+equation_478_14.png,
+equation_423_10.png,ee
+equation_246_182.png,AL
+equation_240_138.png,
+equation_268_60.png,
+equation_120_1.png,| a
+equation_133_9.png,
+equation_120_3.png,
+equation_240_88.png,
+equation_268_62.png,
+equation_240_106.png,
+equation_435_2.png,"~
+a"
+equation_246_194.png,
+equation_246_180.png,wie
+equation_423_12.png,aaa
+equation_240_112.png,
+equation_277_9.png,
+equation_305_7.png,ini
+equation_134_14.png,a =
+equation_340_7.png,a
+equation_178_6.png,
+equation_198_3.png,5
+equation_246_157.png,
+equation_240_63.png,
+equation_428_7.png,
+equation_246_143.png,
+equation_134_28.png,"Se ee om
+a ee"
+equation_240_77.png,
+equation_432_129.png,a
+equation_194_77.png,SS
+equation_223_63.png,™~
+equation_484_87.png,+
+equation_337_16.png,
+equation_484_93.png,+
+equation_152_8.png,Nv
+equation_492_5.png,“Ey
+equation_223_77.png,>
+equation_194_63.png,we
+equation_324_42.png,
+equation_432_115.png,Ties
+equation_302_85.png,
+equation_230_23.png,
+equation_240_304.png,
+equation_230_37.png,
+equation_240_310.png,
+equation_432_101.png,‘-
+equation_324_56.png,
+equation_240_2.png,
+equation_484_44.png,}
+equation_123_18.png,"7,"
+equation_484_50.png,
+equation_223_1.png,
+equation_216_8.png,
+equation_307_5.png,"Brn
+>"
+equation_178_20.png,—
+equation_194_88.png,
+equation_408_42.png,a
+equation_216_27.png,
+equation_302_46.png,
+equation_484_78.png,
+equation_302_52.png,
+equation_216_33.png,
+equation_178_34.png,
+equation_223_88.png,™~
+equation_244_13.png,|
+equation_408_56.png,—
+equation_152_30.png,"of
+a"
+equation_182_13.png,<1
+equation_240_258.png,
+equation_152_24.png,"4
+Se"
+equation_452_5.png,EEE ETT ETT TEEPE P PPP EP PEPE ET ETE P EPP EP EEE PEPE EPP EET ETE PTE PEPE PEPE ES te Fy
+equation_198_63.png,"i haar:
+5 Sc. oe
+oa BE"
+equation_240_270.png,
+equation_240_264.png,
+equation_152_18.png,
+equation_223_117.png,~
+equation_223_103.png,
+equation_246_4.png,"|
+|
+:
+|
+:
+|
+;
+H"
+equation_510_23.png,
+equation_246_16.png,
+equation_280_2.png,"| &*
+4"
+equation_277_22.png,
+equation_432_43.png,—_——
+equation_325_16.png,a a
+equation_432_57.png,. 3
+equation_435_76.png,ie
+equation_435_62.png,er
+equation_435_89.png,
+equation_452_12.png,PETE EET TTT
+equation_281_11.png,
+equation_245_53.png,7
+equation_482_25.png,
+equation_432_80.png,"ee
+ee"
+equation_432_94.png,Poa
+equation_244_6.png,
+equation_245_47.png,
+equation_325_2.png,"~w
+bite
+7+
+. ’ «
+% >
+Pe"
+equation_408_2.png,———
+equation_482_19.png,">
+}"
+equation_408_3.png,——— a
+equation_482_18.png,+
+equation_244_7.png,
+equation_245_46.png,
+equation_432_95.png,
+equation_325_3.png,
+equation_281_10.png,
+equation_452_13.png,rT
+equation_435_88.png,
+equation_432_81.png,
+equation_482_24.png,+
+equation_245_52.png,
+equation_435_63.png,S.
+equation_435_77.png,"a
+bi:
+= _*"
+equation_428_26.png,ara
+equation_432_56.png,"“.
+yr,"
+equation_277_23.png,
+equation_325_17.png,a
+equation_432_42.png,* a
+equation_246_17.png,
+equation_280_3.png,
+equation_223_102.png,
+equation_510_22.png,-?£
+equation_246_5.png,
+equation_223_116.png,
+equation_240_265.png,
+equation_152_19.png,
+equation_452_4.png,
+equation_240_271.png,
+equation_198_62.png,Mor
+equation_240_259.png,
+equation_182_12.png,I<
+equation_152_25.png,a
+equation_152_31.png,"a
+~ ee |"
+equation_302_53.png,
+equation_244_12.png,=
+equation_223_89.png,
+equation_178_35.png,
+equation_216_32.png,i
+equation_216_26.png,=
+equation_408_43.png,i
+equation_194_89.png,NO
+equation_178_21.png,
+equation_484_79.png,
+equation_302_47.png,"oll mg
+beh: & ebb
+bona"
+equation_484_51.png,TPE EEE EE
+equation_307_4.png,
+equation_216_9.png,
+equation_123_19.png,","
+equation_484_45.png,
+equation_240_3.png,
+equation_240_311.png,
+equation_230_36.png,
+equation_324_57.png,
+equation_432_100.png,
+equation_432_114.png,
+equation_324_43.png,
+equation_240_305.png,
+equation_230_22.png,>
+equation_472_1.png,ee
+equation_302_84.png,"""NS"
+equation_492_4.png,Me is ie He ig Pe ie a a Se
+equation_152_9.png,?
+equation_484_92.png,">
+rs"
+equation_337_17.png,
+equation_223_76.png,~S
+equation_194_62.png,Oo
+equation_194_76.png,“4
+equation_223_62.png,we
+equation_432_128.png,—s
+equation_484_86.png,"md
+}"
+equation_240_76.png,
+equation_134_29.png,
+equation_246_142.png,a)
+equation_133_20.png,"4 eee,
+lL"
+equation_198_2.png,
+equation_428_6.png,Rey
+equation_240_62.png,
+equation_246_156.png,
+equation_134_15.png,(ee
+equation_305_6.png,
+equation_178_7.png,a
+equation_340_6.png,.
+equation_277_8.png,
+equation_423_13.png,ig
+equation_246_181.png,iA
+equation_240_113.png,
+equation_240_107.png,
+equation_246_195.png,
+equation_435_3.png,"“he
+“.
+-"
+equation_240_89.png,
+equation_120_2.png,—_
+equation_268_63.png,
+equation_133_8.png,"= 3.40
+. se
+ss"
+equation_435_7.png,"om? ——_
+- ~.
+——"
+equation_246_191.png,
+equation_240_103.png,
+equation_478_13.png,
+equation_240_117.png,
+equation_423_17.png,
+equation_246_185.png,
+equation_240_99.png,
+equation_268_67.png,
+equation_120_6.png,
+equation_134_39.png,"ee Dee
+a
+“Swear 3"
+equation_240_66.png,
+equation_246_152.png,Fer yrvey ss ps
+equation_428_2.png,"—
+ee"
+equation_254_13.png,
+equation_505_13.png,;
+equation_198_6.png,"~~
+—_———"
+equation_240_72.png,
+equation_246_146.png,
+equation_340_2.png,
+equation_133_18.png,"<=""
+_"
+equation_178_3.png,
+equation_305_2.png,ian
+equation_134_11.png,
+equation_302_80.png,~
+equation_472_5.png,\
+equation_230_26.png,_
+equation_240_301.png,
+equation_324_47.png,
+equation_432_110.png,"oo
+e°2
+Hg"
+equation_432_104.png,"i
+aa"
+equation_324_53.png,
+equation_230_32.png,|
+equation_240_315.png,
+equation_484_82.png,
+equation_223_66.png,"ha
+4"
+equation_194_72.png,"Xa),"
+equation_194_66.png,","
+equation_223_72.png,yr
+equation_337_13.png,"a
+a"
+equation_484_96.png,"4
+Z"
+equation_302_43.png,I
+equation_178_25.png,a
+equation_223_99.png,
+equation_408_47.png,a
+equation_216_22.png,
+equation_216_36.png,
+equation_178_31.png,
+equation_194_99.png,8
+equation_244_16.png,=
+equation_408_53.png,gee
+equation_484_69.png,
+equation_302_57.png,
+equation_484_41.png,4
+equation_240_7.png,
+equation_178_19.png,oo
+equation_223_4.png,
+equation_484_55.png,
+equation_240_275.png,
+equation_198_66.png,
+equation_484_142.png,vjeont
+equation_240_261.png,
+equation_240_249.png,
+equation_152_21.png,i
+equation_182_16.png,
+equation_280_7.png,
+equation_246_13.png,
+equation_223_112.png,
+equation_246_1.png,
+equation_223_106.png,
+equation_428_22.png,ee
+equation_435_73.png,">.
+—"
+equation_435_67.png,
+equation_432_46.png,=k
+equation_325_13.png,oes
+equation_277_27.png,"E
+r"
+equation_277_33.png,
+equation_432_52.png,
+equation_408_7.png,————
+equation_245_56.png,
+equation_482_20.png,
+equation_432_85.png,—_
+equation_452_17.png,wh
+equation_281_14.png,
+equation_325_7.png,a
+equation_435_98.png,"a
+Rie"
+equation_432_91.png,",
+oe gay?
+_- ="
+equation_245_42.png,
+equation_244_3.png,
+equation_435_99.png,
+equation_325_6.png,"i
+i"
+equation_245_43.png,
+equation_244_2.png,W
+equation_432_90.png,
+equation_432_84.png,ae
+equation_482_21.png,%
+equation_245_57.png,y
+equation_281_15.png,
+equation_452_16.png,TET AT
+equation_408_6.png,"= ———
+- Se"
+equation_277_32.png,
+equation_432_53.png,ry
+equation_325_12.png,"a *
+“—"
+equation_432_47.png,— a .
+equation_277_26.png,
+equation_435_66.png,"P= '
+a"
+equation_428_23.png,ary.
+equation_435_72.png,a
+equation_223_107.png,
+equation_223_113.png,<
+equation_280_6.png,
+equation_246_12.png,
+equation_152_20.png,—
+equation_182_17.png,"eae
+\ A"
+equation_240_248.png,
+equation_240_260.png,
+equation_198_67.png,
+equation_240_274.png,
+equation_452_1.png,Co
+equation_484_143.png,_—
+equation_307_1.png,
+equation_223_5.png,K
+equation_484_54.png,
+equation_240_6.png,
+equation_484_40.png,7
+equation_178_18.png,» ie
+equation_408_52.png,<<
+equation_244_17.png,
+equation_194_98.png,"4
+f
+*"
+equation_178_30.png,
+equation_216_37.png,
+equation_302_56.png,
+equation_484_68.png,
+equation_302_42.png,
+equation_123_20.png,y
+equation_216_23.png,
+equation_408_46.png,es
+equation_223_98.png,
+equation_178_24.png,i
+equation_194_67.png,
+equation_223_73.png,>
+equation_492_1.png,HH gM gM ie Hise i ie ie Ho
+equation_240_328.png,
+equation_484_97.png,
+equation_337_12.png,"ae
+a"
+equation_484_83.png,
+equation_223_67.png,>
+equation_194_73.png,"fy
+> bP"
+equation_324_52.png,
+equation_432_105.png,"si
+ri"
+equation_240_314.png,
+equation_230_33.png,
+equation_240_300.png,
+equation_230_27.png,™
+equation_472_4.png,BB
+equation_302_81.png,e
+equation_432_111.png,
+equation_324_46.png,
+equation_133_19.png,"7 = Se
+ees e—
+———"
+equation_178_2.png,
+equation_340_3.png,")
+>"
+equation_134_10.png,--~o
+equation_305_3.png,
+equation_246_147.png,a
+equation_240_73.png,
+equation_505_12.png,
+equation_254_12.png,
+equation_428_3.png,"a
+—"
+equation_246_153.png,ht
+equation_240_67.png,
+equation_134_38.png,oe
+equation_198_7.png,"a
+~~.
+———"
+equation_268_66.png,
+equation_120_7.png,
+equation_240_98.png,
+equation_240_116.png,
+equation_478_12.png,
+equation_246_184.png,
+equation_423_16.png,eo
+equation_246_190.png,
+equation_435_6.png,"en.
+a)"
+equation_240_102.png,
+equation_423_14.png,—
+equation_246_186.png,
+equation_478_10.png,
+equation_240_114.png,
+equation_268_58.png,
+equation_240_100.png,
+equation_388_8.png,Neneh eM en eh enone
+equation_435_4.png,
+equation_246_192.png,
+equation_120_5.png,a
+equation_240_128.png,
+equation_268_64.png,
+equation_240_71.png,
+equation_246_145.png,ak
+equation_198_5.png,
+equation_240_65.png,
+equation_246_151.png,
+equation_254_10.png,
+equation_428_1.png,
+equation_505_10.png,". si +
+t :"
+equation_305_1.png,"Lo 4,
+6&
+RS"
+equation_134_12.png,
+equation_246_179.png,A)
+equation_340_1.png,~~
+equation_240_59.png,
+equation_194_8.png,
+equation_240_316.png,
+equation_230_31.png,| {| afecepme{ccm pane ace haan {ace pan| see }ear{ee pean{eee )amen|ane paen}ree}ounjere}menjanejmenjanc}omene|mear{mejane|omiansjmeieonjmefe |
+equation_432_107.png,
+equation_194_59.png,-
+equation_324_50.png,
+equation_324_44.png,
+equation_432_113.png,"a.
+a"
+equation_223_59.png,
+equation_472_6.png,\Q
+equation_302_83.png,"""a"
+equation_240_302.png,
+equation_230_25.png,
+equation_484_95.png,+
+equation_337_10.png,"¢
+at
+,."
+equation_492_3.png,
+equation_223_71.png,|
+equation_194_65.png,a
+equation_194_71.png,
+equation_223_65.png,
+equation_481_9.png,
+equation_230_19.png,>
+equation_268_8.png,
+equation_484_81.png,+
+equation_302_54.png,
+equation_295_8.png,"""ven
+—"
+equation_216_35.png,
+equation_178_32.png,
+equation_408_50.png,—
+equation_244_15.png,
+equation_178_26.png,
+equation_408_44.png,a
+equation_216_21.png,
+equation_302_40.png,
+equation_302_68.png,]
+equation_484_56.png,Bi as aes ae ee ae aes ee ia
+equation_223_7.png,~~=
+equation_244_29.png,
+equation_307_3.png,~ —a
+equation_119_1.png,-:
+equation_484_42.png,7
+equation_240_4.png,
+equation_240_262.png,
+equation_484_141.png,"ri
+7"
+equation_452_3.png,
+equation_240_276.png,;
+equation_198_65.png,
+equation_182_15.png,|
+equation_152_22.png,ee
+equation_198_59.png,
+equation_246_10.png,
+equation_280_4.png,
+equation_510_19.png,™
+equation_223_105.png,
+equation_246_2.png,
+equation_223_111.png,
+equation_240_289.png,
+equation_246_38.png,a
+equation_435_64.png,"-
+Ss"
+equation_277_18.png,
+equation_435_70.png,ae
+equation_420_8.png,
+equation_428_21.png,
+equation_432_79.png,
+equation_432_51.png,ME ho
+equation_277_30.png,
+equation_435_58.png,"i
+Pte"
+equation_277_24.png,
+equation_432_45.png,—
+equation_325_10.png,"7
+= E
+40: Ge
+“tie :"
+equation_408_4.png,"a
+a"
+equation_432_92.png,"i
+—"
+equation_245_41.png,
+equation_325_4.png,i ihe
+equation_452_14.png,™
+equation_245_55.png,
+equation_482_23.png,"4
+rs"
+equation_432_86.png,x
+equation_452_15.png,peeni iL ALDAAA AREAL
+equation_432_87.png,
+equation_482_22.png,
+equation_245_54.png,(
+equation_244_1.png,
+equation_245_40.png,/
+equation_432_93.png,
+equation_234_8.png,
+equation_325_5.png,"Pay
+~"
+equation_408_5.png,eee
+equation_277_25.png,
+equation_325_11.png,"a =
+a a
+— . >»"
+equation_432_44.png,
+equation_432_50.png,
+equation_435_59.png,
+equation_277_31.png,"E
+r"
+equation_435_71.png,"=
+ve
+'_-— —_—"
+equation_277_19.png,
+equation_432_78.png,bas
+equation_428_20.png,ae
+equation_435_65.png,
+equation_246_39.png,yy
+equation_240_288.png,
+equation_223_110.png,
+equation_223_104.png,
+equation_510_24.png,
+equation_246_3.png,4
+equation_246_11.png,
+equation_510_18.png,ee
+equation_280_5.png,
+equation_198_58.png,
+equation_182_14.png,>
+equation_152_23.png,vi
+equation_452_2.png,
+equation_484_140.png,i
+equation_198_64.png,
+equation_240_277.png,
+equation_240_263.png,
+equation_240_5.png,
+equation_484_43.png,
+equation_484_57.png,
+equation_302_69.png,
+equation_307_2.png,"ahs
+="
+equation_244_28.png,
+equation_223_6.png,ZZ
+equation_216_20.png,
+equation_408_45.png,"— i, — an"
+equation_178_27.png,
+equation_302_41.png,ic
+equation_295_9.png,a ;
+equation_302_55.png,
+equation_244_14.png,:
+equation_408_51.png,ssi
+equation_178_33.png,
+equation_216_34.png,
+equation_194_70.png,
+equation_223_64.png,_<
+equation_484_80.png,"rn
+ry"
+equation_268_9.png,
+equation_230_18.png,a
+equation_481_8.png,See Pres We se
+equation_492_2.png,
+equation_337_11.png,‘Since!
+equation_484_94.png,"74
+rs"
+equation_223_70.png,
+equation_194_64.png,- |
+equation_223_58.png,~~
+equation_432_112.png,"a
+pr"
+equation_324_45.png,
+equation_230_24.png,QQ
+equation_240_303.png,
+equation_302_82.png,|
+equation_472_7.png,“
+equation_230_30.png,
+equation_240_317.png,
+equation_194_9.png,
+equation_324_51.png,
+equation_194_58.png,a
+equation_432_106.png,
+equation_240_58.png,
+equation_246_178.png,els
+equation_134_13.png,"a
+So"
+equation_178_1.png,<<“
+equation_198_4.png,
+equation_505_11.png,
+equation_254_11.png,
+equation_246_150.png,ol ina
+equation_240_64.png,
+equation_246_144.png,i
+equation_240_70.png,
+equation_120_4.png,————<@waj
+equation_268_65.png,
+equation_240_129.png,
+equation_388_9.png,
+equation_240_101.png,
+equation_246_193.png,
+equation_435_5.png,
+equation_246_187.png,
+equation_423_15.png,ieee) all
+equation_268_59.png,
+equation_240_115.png,
+equation_478_11.png,
+equation_268_16.png,z
+equation_240_172.png,
+equation_432_4.png,———
+equation_240_166.png,
+equation_134_74.png,"a, ~ ae"
+equation_302_1.png,
+equation_337_8.png,ne
+equation_324_2.png,
+equation_240_199.png,
+equation_134_60.png,eee
+equation_245_6.png,
+equation_246_123.png,Py Frey me rm ee yet Penney a Uren te Pomny mr pret meiprsegne prntgem penny my evn Seng recy ey loney vr Yemen eno rr pe Poon eras or yreny em prey es Pome”
+equation_134_48.png,
+equation_240_17.png,
+equation_246_137.png,"-"""
+equation_223_17.png,<-> |
+equation_194_17.png,_&
+equation_324_36.png,
+equation_324_22.png,
+equation_230_43.png,
+equation_430_6.png,Wied
+equation_224_7.png,
+equation_484_30.png,rs
+equation_194_100.png,S
+equation_280_19.png,
+equation_484_24.png,co
+equation_302_32.png,
+equation_408_36.png,"i
+———"
+equation_281_2.png,
+equation_178_40.png,
+equation_408_22.png,————
+equation_280_25.png,
+equation_484_18.png,}
+equation_302_26.png,
+equation_246_89.png,of
+equation_240_238.png,
+equation_479_22.png,
+equation_123_1.png,
+equation_479_36.png,
+equation_493_5.png,Pe ss Eas ies ies ae Oe ee ase ee ee
+equation_425_13.png,
+equation_198_17.png,
+equation_240_204.png,
+equation_484_133.png,.
+equation_484_127.png,+
+equation_240_210.png,
+equation_241_2.png,
+equation_481_28.png,
+equation_307_16.png,"ll
+hep
+
+—_
+
+oe"
+equation_252_8.png,
+equation_246_76.png,a ie hn ne id Bos es inn Lie a
+equation_448_6.png,
+equation_252_17.png,
+equation_481_14.png,"zr
+z"
+equation_246_62.png,
+equation_432_37.png,OO ——
+equation_432_23.png,"""a
+a"
+equation_510_6.png,~~
+equation_471_2.png,"Point at which
+J bar is developed
+ty
+| ( “ 180-degree
+| Diameter bend
+|
+| ext
+fan"
+equation_435_16.png,"a. =
+——"
+equation_233_9.png,
+equation_245_27.png,
+equation_295_10.png,
+equation_265_3.png,
+equation_245_33.png,
+equation_448_16.png,Qe
+equation_448_17.png,
+equation_265_2.png,
+equation_245_32.png,
+equation_245_26.png,ke
+equation_233_8.png,
+equation_295_11.png,"oT
+oy"
+equation_435_17.png,_
+equation_510_7.png,wz
+equation_432_22.png,
+equation_432_36.png,a
+equation_246_63.png,
+equation_481_15.png,"ru
+4"
+equation_252_16.png,
+equation_448_7.png,
+equation_246_77.png,"="""
+equation_252_9.png,
+equation_307_17.png,"G
+a"
+equation_481_29.png,OR: Fe Pes Fe
+equation_241_3.png,
+equation_484_126.png,a
+equation_240_211.png,
+equation_240_205.png,
+equation_198_16.png,"—_— =
+LS"
+equation_425_12.png,a |
+equation_484_132.png,|
+equation_493_4.png,
+equation_479_23.png,
+equation_240_239.png,
+equation_246_88.png,Ge ee in
+equation_408_23.png,——————
+equation_178_41.png,
+equation_281_3.png,
+equation_302_27.png,HEMPPEPEPEELED
+equation_484_19.png,4
+equation_280_24.png,
+equation_280_30.png,
+equation_302_33.png,
+equation_408_37.png,
+equation_194_101.png,er
+equation_484_25.png,2
+equation_280_18.png,
+equation_484_31.png,4
+equation_224_6.png,"ih SS Pe ee. ee rh ee Pee
+ae ee eben
+Paine 37 Poveiag Je (Se gay Tay
+anc 2 ea a
+
+ay eo oy"
+equation_324_23.png,"\
+
+\
+4
+\"
+equation_430_7.png,gt
+equation_230_42.png,
+equation_324_37.png,
+equation_194_16.png,an
+equation_223_16.png,"oo ZA
+A
+a U va
+ZA AA"
+equation_246_136.png,
+equation_240_16.png,
+equation_134_49.png,a a
+equation_246_122.png,
+equation_240_198.png,
+equation_324_3.png,
+equation_245_7.png,
+equation_134_61.png,
+equation_134_75.png,ee.
+equation_337_9.png,
+equation_240_167.png,
+equation_432_5.png,=
+equation_182_1.png,Pe
+equation_240_173.png,
+equation_268_17.png,
+equation_484_8.png,
+equation_240_159.png,
+equation_268_15.png,q
+equation_182_3.png,~~
+equation_432_7.png,———
+equation_240_165.png,
+equation_268_29.png,
+equation_240_171.png,
+equation_505_9.png,i
+equation_246_108.png,eh
+equation_134_63.png,—-  — > > .———”
+equation_245_5.png,
+equation_324_1.png,
+equation_302_2.png,
+equation_134_77.png,oe
+equation_240_28.png,
+equation_246_134.png,fais Soak ions Aah a baat a i cis md ca fa oat he) ih im) ih ek a mh Ze ek ee hk sts ik Soe [oa a Sas Hd Sol Ded el Bd Da a Sd es
+equation_479_8.png,
+equation_246_120.png,pide
+equation_240_14.png,
+equation_472_14.png,"qd,
+135-degree
+( bend
+\
+Diameter ~ 7
+Loxt"
+equation_194_14.png,
+equation_223_14.png,A >!
+equation_230_40.png,
+equation_430_5.png,~ eee
+equation_194_28.png,|
+equation_324_21.png,"\
+4
+\
+STERN"
+equation_324_35.png,
+equation_223_28.png,<e
+equation_302_19.png,L
+equation_484_27.png,4
+equation_305_10.png,a
+equation_194_103.png,
+equation_224_4.png,
+equation_484_33.png,4
+equation_280_26.png,
+equation_302_25.png,
+equation_281_1.png,|
+equation_178_43.png,qv
+equation_408_21.png,a
+equation_408_35.png,———— i
+equation_302_31.png,
+equation_479_35.png,
+equation_425_38.png,
+equation_493_6.png,
+equation_484_118.png,+
+equation_123_2.png,= y
+equation_198_28.png,=< 3
+equation_479_21.png,
+equation_240_213.png,
+equation_425_9.png,
+equation_484_124.png,on
+equation_484_130.png,+t
+equation_198_14.png,aa
+equation_425_10.png,
+equation_240_207.png,
+equation_307_15.png,":.
+-"
+equation_252_28.png,
+equation_241_1.png,
+equation_246_49.png,=f
+equation_252_14.png,
+equation_307_29.png,
+equation_448_5.png,
+equation_503_14.png,Ens
+equation_481_17.png,+
+equation_246_61.png,a
+equation_246_75.png,ej
+equation_432_20.png,tee
+equation_435_29.png,"ae
+="
+equation_432_34.png,"——
+a
+=. —"
+equation_435_15.png,
+equation_471_1.png,"Point at which
+a bar is developed
+| dy 90-degree
+bend
+mew
+| Diameter ~~
+| Loxt
+|
+fan"
+equation_510_5.png,o—
+equation_245_30.png,
+equation_448_29.png,| {| face pmejece pean ace fame ae }ane}see}aned ene}mar eae }onjane}me{sce}aen{sonime{re}aer{aceben{acepee{s0efeejaneponjanefontessjmeie | =)
+equation_295_13.png,wee
+equation_245_24.png,
+equation_448_15.png,>
+equation_245_18.png,
+equation_245_19.png,
+equation_448_14.png,“=
+equation_295_12.png,ae
+equation_245_25.png,
+equation_245_31.png,4
+equation_265_1.png,|
+equation_448_28.png,
+equation_510_4.png,ee
+equation_435_14.png,os
+equation_432_35.png,=
+equation_432_21.png,
+equation_435_28.png,264 c
+equation_246_74.png,
+equation_246_60.png,q=
+equation_481_16.png,"+
+bd"
+equation_503_15.png,"wa
+——
+er
+= ae
+3 ae."
+equation_307_28.png,hee>
+equation_448_4.png,
+equation_252_15.png,
+equation_246_48.png,a oe
+equation_252_29.png,
+equation_307_14.png,"J
+2"
+equation_484_131.png,2
+equation_240_206.png,
+equation_425_11.png,a
+equation_198_15.png,", --"
+equation_240_212.png,
+equation_484_125.png,
+equation_425_8.png,
+equation_479_20.png,
+equation_198_29.png,=
+equation_493_7.png,
+equation_425_39.png,"a
+=a), 7"
+equation_479_34.png,
+equation_123_3.png,QO
+equation_484_119.png,
+equation_408_34.png,Sd
+equation_302_30.png,
+equation_302_24.png,
+equation_280_27.png,
+equation_408_20.png,——————————
+equation_178_42.png,
+equation_484_32.png,+
+equation_224_5.png,
+equation_484_26.png,"ya
++"
+equation_302_18.png,"EOREEETE SB EEELE
+PAPA: EEA"
+equation_194_102.png,"ee
+ee"
+equation_305_11.png,=Ssti‘(ais)
+equation_223_29.png,| Oy
+equation_324_34.png,
+equation_430_4.png,"a. 4
+ete:
+oe
+b peele"
+equation_230_41.png,(| tafe ae fone a jon | jane ac jenna boa aoe ean aae umes ane eee wee je ace |amer ae jamedame}mm(ean rwcacn eme{ ame jomn{eneye ff
+equation_324_20.png,"ba
+;
+\
+\
+\"
+equation_194_29.png,.
+equation_223_15.png,~~ ».
+equation_472_15.png,"a,
+( 180-degree
+Diameter bend
+Meo"
+equation_194_15.png,4.
+equation_240_15.png,
+equation_246_121.png,
+equation_479_9.png,
+equation_246_135.png,f
+equation_302_3.png,
+equation_240_29.png,
+equation_134_76.png,Se ee
+equation_245_4.png,|
+equation_134_62.png,"i oe
+Sate
+—"
+equation_246_109.png,
+equation_505_8.png,p
+equation_240_170.png,
+equation_182_2.png,>
+equation_268_28.png,
+equation_240_164.png,
+equation_432_6.png,a
+equation_484_9.png,
+equation_268_14.png,
+equation_240_158.png,
+equation_432_2.png,"we
+—"
+equation_240_160.png,
+equation_182_6.png,|
+equation_240_174.png,
+equation_268_38.png,
+equation_268_10.png,
+equation_134_9.png,
+equation_240_148.png,
+equation_246_131.png,evs
+equation_240_11.png,
+equation_246_125.png,mye
+equation_324_4.png,\
+equation_134_66.png,"<a Sel oe
+So ae"
+equation_240_39.png,
+equation_134_72.png,
+equation_246_119.png,oe
+equation_302_7.png,
+equation_223_39.png,»
+equation_324_24.png,
+equation_324_30.png,
+equation_194_39.png,pan
+equation_324_18.png,
+equation_194_11.png,
+equation_472_11.png,-
+equation_223_11.png,“7
+equation_281_4.png,
+equation_178_46.png,
+equation_408_24.png,
+equation_280_23.png,
+equation_302_20.png,_|
+equation_302_34.png,a
+equation_408_30.png,——
+equation_408_18.png,——=—
+equation_194_106.png,
+equation_484_22.png,ry
+equation_224_1.png,ae
+equation_484_36.png,}
+equation_244_49.png,SUUTE TRUEST SLOTS Ter UrOTereTeT
+equation_254_8.png,
+equation_484_121.png,
+equation_240_216.png,
+equation_479_18.png,
+equation_240_202.png,
+equation_198_11.png,”
+equation_425_15.png,—_—
+equation_484_135.png,4
+equation_123_7.png,~/
+equation_479_30.png,
+equation_493_3.png,
+equation_198_39.png,are
+equation_425_29.png,~
+equation_479_24.png,
+equation_484_109.png,++
+equation_252_11.png,
+equation_503_11.png,
+equation_481_12.png,"bi
+z"
+equation_246_64.png,"RN nd a saa cs Saas nak wae fe in, dh inn fk Sma Jo J"
+equation_246_70.png,a
+equation_246_58.png,on
+equation_307_10.png,
+equation_241_4.png,
+equation_435_10.png,be
+equation_432_19.png,
+equation_432_25.png,
+equation_432_31.png,
+equation_435_38.png,"Dp Se
+—"
+equation_448_10.png,se es
+equation_265_5.png,
+equation_245_35.png,
+equation_245_21.png,C
+equation_295_16.png,ae
+equation_448_38.png,| hem ace me ane ones as fame wae mum (eon aren ao jana | ace jomes{ ac bom |e mace ee wen james hme aoe lowmeoejeme(ane jammies jem (acmye fj
+equation_245_20.png,
+equation_448_39.png,
+equation_295_17.png,"q
+ed"
+equation_265_4.png,
+equation_245_34.png,
+equation_448_11.png,
+equation_432_30.png,———
+equation_435_39.png,
+equation_432_24.png,oe =a
+equation_510_1.png,
+equation_435_11.png,ee
+equation_432_18.png,"ST
+a"
+equation_241_5.png,
+equation_307_11.png,
+equation_246_59.png,“ys
+equation_246_71.png,+
+equation_246_65.png,"="""
+equation_481_13.png,"bi
+z"
+equation_503_10.png,im
+equation_448_1.png,
+equation_252_10.png,
+equation_479_25.png,
+equation_425_28.png,SS
+equation_484_108.png,+
+equation_123_6.png,">,"
+equation_198_38.png,"> =e
+=~ ©"
+equation_493_2.png,
+equation_479_31.png,
+equation_425_14.png,
+equation_198_10.png,be
+equation_240_203.png,
+equation_479_19.png,
+equation_484_134.png,|
+equation_484_120.png,+
+equation_240_217.png,
+equation_484_37.png,4
+equation_244_48.png,
+equation_254_9.png,
+equation_194_107.png,
+equation_408_19.png,
+equation_484_23.png,4
+equation_302_35.png,
+equation_408_31.png,_— _
+equation_408_25.png,"a a
+—"
+equation_178_47.png,
+equation_281_5.png,
+equation_216_40.png,
+equation_302_21.png,"4 E
+PE EEUEEAEEESERE"
+equation_280_22.png,
+equation_223_10.png,4
+equation_194_10.png,—~
+equation_324_19.png,
+equation_472_10.png,—
+equation_194_38.png,a
+equation_324_31.png,
+equation_324_25.png,
+equation_223_38.png,
+equation_430_1.png,ii
+equation_230_44.png,
+equation_246_118.png,mh
+equation_134_73.png,ges
+equation_302_6.png,"ES? HEVEECEHEEE
+ERE) EOEEEMEHETE"
+equation_324_5.png,
+equation_245_1.png,|
+equation_240_38.png,
+equation_134_67.png,te Me.  ~
+equation_246_124.png,GA bn ee ee ee eo |
+equation_240_10.png,
+equation_246_130.png,rl
+equation_240_149.png,
+equation_134_8.png,
+equation_268_11.png,
+equation_268_39.png,
+equation_240_175.png,
+equation_240_161.png,
+equation_432_3.png,———-
+equation_182_7.png,“4!
+equation_240_177.png,
+equation_182_5.png,a
+equation_432_1.png,eet nian
+equation_240_163.png,
+equation_268_13.png,
+equation_240_12.png,
+equation_246_126.png,ft
+equation_493_11.png,
+equation_134_59.png,0 ——S—————
+equation_246_132.png,iA
+equation_240_188.png,
+equation_302_4.png,HEPEEDEMEMEHEGED =
+equation_134_71.png,ae
+equation_134_65.png,ee
+equation_245_3.png,
+equation_324_7.png,‘
+equation_324_33.png,
+equation_423_9.png,_ ils
+equation_430_3.png,
+equation_324_27.png,
+equation_223_12.png,.
+equation_472_12.png,/
+equation_194_12.png,a
+equation_408_33.png,Se
+equation_302_37.png,a |
+equation_280_20.png,
+equation_302_23.png,PETE TEESE
+equation_281_7.png,
+equation_178_45.png,
+equation_408_27.png,==
+equation_224_2.png,
+equation_484_35.png,4
+equation_484_21.png,
+equation_194_105.png,
+equation_484_136.png,a”
+equation_240_201.png,
+equation_425_16.png,
+equation_198_12.png,"eo
+a"
+equation_240_215.png,
+equation_484_122.png,+
+equation_479_27.png,
+equation_479_33.png,
+equation_240_229.png,
+equation_246_98.png,it
+equation_123_4.png,/
+equation_246_73.png,
+equation_448_3.png,
+equation_252_12.png,
+equation_503_12.png,i
+equation_481_11.png,
+equation_246_67.png,4 ie
+equation_481_39.png,
+equation_307_13.png,atte
+equation_510_3.png,ge
+equation_503_9.png,Tt
+equation_435_13.png,eee
+equation_482_8.png,
+equation_432_32.png,——
+equation_432_26.png,—i. 7
+equation_295_29.png,
+equation_448_13.png,
+equation_295_15.png,":.
+=."
+equation_245_22.png,
+equation_245_36.png,
+equation_265_6.png,
+equation_245_37.png,4
+equation_265_7.png,
+equation_295_14.png,
+equation_245_23.png,
+equation_448_12.png,{CC Cece
+equation_295_28.png,ier
+equation_432_27.png,"ee
+= ———"
+equation_482_9.png,
+equation_432_33.png,———
+equation_503_8.png,"rey
+| pay
+A
+ve
+p
+( |
+=IN
+aN
+1 2 y
+| el"
+equation_435_12.png,—
+equation_510_2.png,
+equation_307_12.png,ae
+equation_481_38.png,a
+equation_246_66.png,i
+equation_481_10.png,=
+equation_503_13.png,?
+equation_252_13.png,
+equation_448_2.png,
+equation_246_72.png,ae
+equation_246_99.png,ssa ik ah el ib ai LJ Jat Sia ah Ses did ik md ins i ac ih antl a le lomo hale ef Jo! ek ted Dk coed fe aed kl Sd es
+equation_493_1.png,
+equation_240_228.png,
+equation_479_32.png,
+equation_123_5.png,J
+equation_479_26.png,
+equation_240_214.png,
+equation_484_123.png,+
+equation_484_137.png,4
+equation_198_13.png,ee
+equation_425_17.png,
+equation_240_200.png,
+equation_484_20.png,q
+equation_194_104.png,
+equation_484_34.png,+
+equation_224_3.png,
+equation_302_22.png,
+equation_280_21.png,
+equation_408_26.png,Oe ee
+equation_178_44.png,_
+equation_281_6.png,
+equation_408_32.png,ae
+equation_302_36.png,a
+equation_472_13.png,"A 90-degree
+bend
+/
+\
+Diameter ~~ Lext"
+equation_194_13.png,ag
+equation_223_13.png,>
+equation_430_2.png,"me
+ate
+‘elite"
+equation_324_26.png,
+equation_324_32.png,
+equation_423_8.png,aa
+equation_245_2.png,|
+equation_134_64.png,
+equation_324_6.png,
+equation_302_5.png,"Coens
+eH: PEPE:"
+equation_240_189.png,
+equation_134_70.png,
+equation_246_133.png,AL
+equation_134_58.png,
+equation_493_10.png,q Benen
+equation_246_127.png,-
+equation_240_13.png,
+equation_268_12.png,
+equation_182_4.png,
+equation_240_162.png,
+equation_240_176.png,
